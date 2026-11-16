@@ -1,0 +1,151 @@
+coding_scheme,cluster,profile,n,ngram,count
+lin_dialogue_acts,0,Extended-engagement,3,m_Statement -> m_Question -> m_Directive,3
+lin_dialogue_acts,0,Extended-engagement,3,m_Question -> m_Directive -> u_Hint,3
+lin_dialogue_acts,0,Extended-engagement,3,m_Directive -> u_Hint -> u_Question,3
+lin_dialogue_acts,0,Extended-engagement,3,u_Hint -> u_Question -> m_Statement,3
+lin_dialogue_acts,0,Extended-engagement,3,u_Question -> m_Statement -> m_Question,2
+lin_dialogue_acts,0,Extended-engagement,3,m_Statement -> m_Question -> u_Answer,2
+lin_dialogue_acts,0,Extended-engagement,3,u_Answer -> m_Statement -> m_Positive Feedback,2
+lin_dialogue_acts,0,Extended-engagement,3,m_Question -> u_Answer -> m_Statement,1
+lin_dialogue_acts,0,Extended-engagement,3,m_Statement -> m_Positive Feedback -> u_Acknowledge,1
+lin_dialogue_acts,0,Extended-engagement,3,u_Question -> m_Statement -> m_Acknowledge,1
+lin_dialogue_acts,0,Extended-engagement,4,m_Statement -> m_Question -> m_Directive -> u_Hint,3
+lin_dialogue_acts,0,Extended-engagement,4,m_Question -> m_Directive -> u_Hint -> u_Question,3
+lin_dialogue_acts,0,Extended-engagement,4,m_Directive -> u_Hint -> u_Question -> m_Statement,3
+lin_dialogue_acts,0,Extended-engagement,4,u_Hint -> u_Question -> m_Statement -> m_Question,2
+lin_dialogue_acts,0,Extended-engagement,4,u_Question -> m_Statement -> m_Question -> u_Answer,2
+lin_dialogue_acts,0,Extended-engagement,4,m_Statement -> m_Question -> u_Answer -> m_Statement,1
+lin_dialogue_acts,0,Extended-engagement,4,m_Question -> u_Answer -> m_Statement -> m_Positive Feedback,1
+lin_dialogue_acts,0,Extended-engagement,4,u_Answer -> m_Statement -> m_Positive Feedback -> u_Acknowledge,1
+lin_dialogue_acts,0,Extended-engagement,4,u_Hint -> u_Question -> m_Statement -> m_Acknowledge,1
+lin_dialogue_acts,0,Extended-engagement,4,u_Question -> m_Statement -> m_Acknowledge -> u_Answer,1
+lin_dialogue_acts,1,Task-completion,3,u_Hint -> m_Positive Feedback -> m_Question,28
+lin_dialogue_acts,1,Task-completion,3,m_Positive Feedback -> m_Question -> u_Hint,28
+lin_dialogue_acts,1,Task-completion,3,m_Question -> u_Hint -> m_Positive Feedback,28
+lin_dialogue_acts,1,Task-completion,3,m_Statement -> m_Question -> m_Directive,26
+lin_dialogue_acts,1,Task-completion,3,m_Question -> m_Directive -> u_Hint,26
+lin_dialogue_acts,1,Task-completion,3,m_Directive -> u_Hint -> m_Positive Feedback,26
+lin_dialogue_acts,1,Task-completion,3,u_Hint -> m_Positive Feedback -> m_Directive,14
+lin_dialogue_acts,1,Task-completion,4,u_Hint -> m_Positive Feedback -> m_Question -> u_Hint,28
+lin_dialogue_acts,1,Task-completion,4,m_Positive Feedback -> m_Question -> u_Hint -> m_Positive Feedback,28
+lin_dialogue_acts,1,Task-completion,4,m_Statement -> m_Question -> m_Directive -> u_Hint,26
+lin_dialogue_acts,1,Task-completion,4,m_Question -> m_Directive -> u_Hint -> m_Positive Feedback,26
+lin_dialogue_acts,1,Task-completion,4,m_Directive -> u_Hint -> m_Positive Feedback -> m_Question,14
+lin_dialogue_acts,1,Task-completion,4,m_Question -> u_Hint -> m_Positive Feedback -> m_Question,14
+lin_dialogue_acts,1,Task-completion,4,m_Question -> u_Hint -> m_Positive Feedback -> m_Directive,14
+lin_dialogue_acts,2,Front-loading,3,m_Positive Feedback -> m_Question -> u_Hint,13
+lin_dialogue_acts,2,Front-loading,3,m_Statement -> m_Question -> m_Directive,12
+lin_dialogue_acts,2,Front-loading,3,m_Question -> m_Directive -> u_Hint,11
+lin_dialogue_acts,2,Front-loading,3,u_Hint -> m_Positive Feedback -> m_Question,11
+lin_dialogue_acts,2,Front-loading,3,m_Question -> u_Hint -> m_Positive Feedback,10
+lin_dialogue_acts,2,Front-loading,3,m_Directive -> u_Hint -> u_Question,6
+lin_dialogue_acts,2,Front-loading,3,u_Hint -> u_Question -> m_Statement,6
+lin_dialogue_acts,2,Front-loading,3,u_Question -> m_Statement -> m_Question,6
+lin_dialogue_acts,2,Front-loading,3,m_Directive -> u_Hint -> m_Positive Feedback,5
+lin_dialogue_acts,2,Front-loading,3,u_Hint -> m_Positive Feedback -> m_Directive,4
+lin_dialogue_acts,2,Front-loading,4,m_Statement -> m_Question -> m_Directive -> u_Hint,11
+lin_dialogue_acts,2,Front-loading,4,u_Hint -> m_Positive Feedback -> m_Question -> u_Hint,11
+lin_dialogue_acts,2,Front-loading,4,m_Positive Feedback -> m_Question -> u_Hint -> m_Positive Feedback,10
+lin_dialogue_acts,2,Front-loading,4,m_Question -> m_Directive -> u_Hint -> u_Question,6
+lin_dialogue_acts,2,Front-loading,4,m_Directive -> u_Hint -> u_Question -> m_Statement,6
+lin_dialogue_acts,2,Front-loading,4,u_Hint -> u_Question -> m_Statement -> m_Question,6
+lin_dialogue_acts,2,Front-loading,4,m_Question -> u_Hint -> m_Positive Feedback -> m_Question,5
+lin_dialogue_acts,2,Front-loading,4,m_Question -> m_Directive -> u_Hint -> m_Positive Feedback,5
+lin_dialogue_acts,2,Front-loading,4,m_Directive -> u_Hint -> m_Positive Feedback -> m_Question,5
+lin_dialogue_acts,2,Front-loading,4,u_Question -> m_Statement -> m_Question -> u_Answer,3
+acosta_epistemic_stance,0,Assignment-driven,3,m_Other -> m_K- -> m_Other,9
+acosta_epistemic_stance,0,Assignment-driven,3,u_K- -> m_Reply-knowledge -> m_K-,9
+acosta_epistemic_stance,0,Assignment-driven,3,m_Reply-knowledge -> m_K- -> u_Reply,9
+acosta_epistemic_stance,0,Assignment-driven,3,m_K- -> u_Reply -> m_Reply-knowledge,9
+acosta_epistemic_stance,0,Assignment-driven,3,m_K- -> m_Other -> u_K+,7
+acosta_epistemic_stance,0,Assignment-driven,3,m_Other -> u_K+ -> u_K-,7
+acosta_epistemic_stance,0,Assignment-driven,3,u_K+ -> u_K- -> m_Reply-knowledge,7
+acosta_epistemic_stance,0,Assignment-driven,3,u_Reply -> m_Reply-knowledge -> u_Reply,5
+acosta_epistemic_stance,0,Assignment-driven,3,u_Reply -> m_Reply-knowledge -> m_Other,4
+acosta_epistemic_stance,0,Assignment-driven,3,m_Reply-knowledge -> m_Other -> u_Reply,4
+acosta_epistemic_stance,0,Assignment-driven,4,u_K- -> m_Reply-knowledge -> m_K- -> u_Reply,9
+acosta_epistemic_stance,0,Assignment-driven,4,m_Reply-knowledge -> m_K- -> u_Reply -> m_Reply-knowledge,9
+acosta_epistemic_stance,0,Assignment-driven,4,m_Other -> m_K- -> m_Other -> u_K+,7
+acosta_epistemic_stance,0,Assignment-driven,4,m_K- -> m_Other -> u_K+ -> u_K-,7
+acosta_epistemic_stance,0,Assignment-driven,4,m_Other -> u_K+ -> u_K- -> m_Reply-knowledge,7
+acosta_epistemic_stance,0,Assignment-driven,4,u_K+ -> u_K- -> m_Reply-knowledge -> m_K-,7
+acosta_epistemic_stance,0,Assignment-driven,4,m_K- -> u_Reply -> m_Reply-knowledge -> u_Reply,5
+acosta_epistemic_stance,0,Assignment-driven,4,m_K- -> u_Reply -> m_Reply-knowledge -> m_Other,4
+acosta_epistemic_stance,0,Assignment-driven,4,u_Reply -> m_Reply-knowledge -> m_Other -> u_Reply,4
+acosta_epistemic_stance,0,Assignment-driven,4,m_Other -> m_K- -> m_Other -> u_Reply-knowledge,2
+acosta_epistemic_stance,1,Gap-filling,3,m_Other -> m_K- -> m_Other,18
+acosta_epistemic_stance,1,Gap-filling,3,m_K- -> m_Other -> u_K+,13
+acosta_epistemic_stance,1,Gap-filling,3,u_K+ -> m_Other -> m_K-,10
+acosta_epistemic_stance,1,Gap-filling,3,m_Other -> m_K- -> u_K+,9
+acosta_epistemic_stance,1,Gap-filling,3,m_Other -> u_K+ -> m_Other,8
+acosta_epistemic_stance,1,Gap-filling,3,m_K- -> u_K+ -> m_Reply-knowledge,7
+acosta_epistemic_stance,1,Gap-filling,3,m_K- -> u_K+ -> m_Other,6
+acosta_epistemic_stance,1,Gap-filling,3,m_K- -> m_Other -> u_Reply-knowledge,5
+acosta_epistemic_stance,1,Gap-filling,3,u_K+ -> m_Reply-knowledge -> m_K-,5
+acosta_epistemic_stance,1,Gap-filling,3,m_Reply-knowledge -> m_K- -> u_K+,5
+acosta_epistemic_stance,1,Gap-filling,4,m_Other -> m_K- -> m_Other -> u_K+,13
+acosta_epistemic_stance,1,Gap-filling,4,m_K- -> m_Other -> u_K+ -> m_Other,8
+acosta_epistemic_stance,1,Gap-filling,4,u_K+ -> m_Other -> m_K- -> u_K+,8
+acosta_epistemic_stance,1,Gap-filling,4,m_Other -> u_K+ -> m_Other -> m_K-,6
+acosta_epistemic_stance,1,Gap-filling,4,m_Other -> m_K- -> m_Other -> u_Reply-knowledge,5
+acosta_epistemic_stance,1,Gap-filling,4,u_K+ -> m_Reply-knowledge -> m_K- -> u_K+,5
+acosta_epistemic_stance,1,Gap-filling,4,m_Other -> m_K- -> u_K+ -> m_Other,4
+acosta_epistemic_stance,1,Gap-filling,4,m_Other -> m_K- -> u_K+ -> m_Reply-knowledge,4
+acosta_epistemic_stance,1,Gap-filling,4,m_K- -> u_K+ -> m_Reply-knowledge -> m_Other,4
+acosta_epistemic_stance,1,Gap-filling,4,m_K- -> u_K+ -> m_Other -> m_K-,3
+acosta_epistemic_stance,2,Sense-making,3,m_Other -> m_K- -> m_Other,15
+acosta_epistemic_stance,2,Sense-making,3,m_Reply-knowledge -> m_K- -> u_K+,12
+acosta_epistemic_stance,2,Sense-making,3,m_K- -> m_Other -> u_Reply-knowledge,11
+acosta_epistemic_stance,2,Sense-making,3,u_Reply-knowledge -> m_Reply-knowledge -> m_K-,11
+acosta_epistemic_stance,2,Sense-making,3,m_K- -> u_K+ -> m_Reply-knowledge,10
+acosta_epistemic_stance,2,Sense-making,3,m_Other -> m_K- -> u_K+,7
+acosta_epistemic_stance,2,Sense-making,3,m_Other -> u_Reply-knowledge -> m_Reply-knowledge,6
+acosta_epistemic_stance,2,Sense-making,3,u_K+ -> m_Reply-knowledge -> m_Other,6
+acosta_epistemic_stance,2,Sense-making,3,u_K+ -> m_Reply-knowledge -> m_K-,6
+acosta_epistemic_stance,2,Sense-making,3,m_K- -> u_K+ -> m_Other,5
+acosta_epistemic_stance,2,Sense-making,4,m_Other -> m_K- -> m_Other -> u_Reply-knowledge,11
+acosta_epistemic_stance,2,Sense-making,4,u_Reply-knowledge -> m_Reply-knowledge -> m_K- -> u_K+,8
+acosta_epistemic_stance,2,Sense-making,4,m_K- -> m_Other -> u_Reply-knowledge -> m_Reply-knowledge,6
+acosta_epistemic_stance,2,Sense-making,4,m_Other -> u_Reply-knowledge -> m_Reply-knowledge -> m_K-,6
+acosta_epistemic_stance,2,Sense-making,4,m_K- -> u_K+ -> m_Reply-knowledge -> m_Other,6
+acosta_epistemic_stance,2,Sense-making,4,m_Reply-knowledge -> m_K- -> u_K+ -> m_Other,5
+acosta_epistemic_stance,2,Sense-making,4,m_Other -> m_K- -> u_K+ -> m_Reply-knowledge,5
+acosta_epistemic_stance,2,Sense-making,4,m_Reply-knowledge -> m_K- -> u_K+ -> m_Reply-knowledge,5
+acosta_epistemic_stance,2,Sense-making,4,u_Reply-knowledge -> m_Other -> m_K- -> u_K+,4
+acosta_epistemic_stance,2,Sense-making,4,m_K- -> u_K+ -> m_Reply-knowledge -> m_K-,4
+del_bosque_cma,0,Tutored,3,u_Student Compound Contribution -> m_Acknowledge Backchannel -> m_Tutor Diagnosing Base,42
+del_bosque_cma,0,Tutored,3,m_Acknowledge Backchannel -> m_Tutor Diagnosing Base -> u_Student Compound Contribution,42
+del_bosque_cma,0,Tutored,3,m_Tutor Diagnosing Base -> u_Student Compound Contribution -> m_Acknowledge Backchannel,42
+del_bosque_cma,0,Tutored,3,m_Tutor Floor Initiating or Floor Mantaining -> m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining,21
+del_bosque_cma,0,Tutored,3,m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution,21
+del_bosque_cma,0,Tutored,3,m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> m_Acknowledge Backchannel,21
+del_bosque_cma,0,Tutored,3,u_Student Compound Contribution -> m_Acknowledge Backchannel -> m_Tutor Floor Initiating or Floor Mantaining,21
+del_bosque_cma,0,Tutored,4,u_Student Compound Contribution -> m_Acknowledge Backchannel -> m_Tutor Diagnosing Base -> u_Student Compound Contribution,42
+del_bosque_cma,0,Tutored,4,m_Acknowledge Backchannel -> m_Tutor Diagnosing Base -> u_Student Compound Contribution -> m_Acknowledge Backchannel,42
+del_bosque_cma,0,Tutored,4,m_Tutor Floor Initiating or Floor Mantaining -> m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution,21
+del_bosque_cma,0,Tutored,4,m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> m_Acknowledge Backchannel,21
+del_bosque_cma,0,Tutored,4,m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> m_Acknowledge Backchannel -> m_Tutor Diagnosing Base,21
+del_bosque_cma,0,Tutored,4,m_Tutor Diagnosing Base -> u_Student Compound Contribution -> m_Acknowledge Backchannel -> m_Tutor Diagnosing Base,21
+del_bosque_cma,0,Tutored,4,m_Tutor Diagnosing Base -> u_Student Compound Contribution -> m_Acknowledge Backchannel -> m_Tutor Floor Initiating or Floor Mantaining,21
+del_bosque_cma,1,Passive,3,m_Tutor Floor Initiating or Floor Mantaining -> m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining,9
+del_bosque_cma,1,Passive,3,m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution,9
+del_bosque_cma,1,Passive,3,m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> u_Student Question,9
+del_bosque_cma,1,Passive,3,u_Student Compound Contribution -> u_Student Question -> m_Tutor Question Response,9
+del_bosque_cma,1,Passive,3,u_Student Question -> m_Tutor Question Response -> m_Tutor Diagnosing Base,9
+del_bosque_cma,1,Passive,3,m_Tutor Question Response -> m_Tutor Diagnosing Base -> u_Student Backchannel,9
+del_bosque_cma,1,Passive,3,m_Tutor Diagnosing Base -> u_Student Backchannel -> m_Tutor Question Response,9
+del_bosque_cma,1,Passive,3,u_Student Backchannel -> m_Tutor Question Response -> m_Acknowledge Backchannel,9
+del_bosque_cma,1,Passive,3,m_Tutor Question Response -> m_Acknowledge Backchannel -> u_Student Backchannel,9
+del_bosque_cma,1,Passive,4,m_Tutor Floor Initiating or Floor Mantaining -> m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution,9
+del_bosque_cma,1,Passive,4,m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> u_Student Question,9
+del_bosque_cma,1,Passive,4,m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> u_Student Question -> m_Tutor Question Response,9
+del_bosque_cma,1,Passive,4,u_Student Compound Contribution -> u_Student Question -> m_Tutor Question Response -> m_Tutor Diagnosing Base,9
+del_bosque_cma,1,Passive,4,u_Student Question -> m_Tutor Question Response -> m_Tutor Diagnosing Base -> u_Student Backchannel,9
+del_bosque_cma,1,Passive,4,m_Tutor Question Response -> m_Tutor Diagnosing Base -> u_Student Backchannel -> m_Tutor Question Response,9
+del_bosque_cma,1,Passive,4,m_Tutor Diagnosing Base -> u_Student Backchannel -> m_Tutor Question Response -> m_Acknowledge Backchannel,9
+del_bosque_cma,1,Passive,4,u_Student Backchannel -> m_Tutor Question Response -> m_Acknowledge Backchannel -> u_Student Backchannel,9
+del_bosque_cma,2,Collaborative,3,m_Tutor Floor Initiating or Floor Mantaining -> m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining,12
+del_bosque_cma,2,Collaborative,3,m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution,12
+del_bosque_cma,2,Collaborative,3,m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> m_Acknowledge Backchannel,12
+del_bosque_cma,2,Collaborative,4,m_Tutor Floor Initiating or Floor Mantaining -> m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution,12
+del_bosque_cma,2,Collaborative,4,m_Tutor Elicit Response -> m_Tutor Floor Initiating or Floor Mantaining -> u_Student Compound Contribution -> m_Acknowledge Backchannel,12

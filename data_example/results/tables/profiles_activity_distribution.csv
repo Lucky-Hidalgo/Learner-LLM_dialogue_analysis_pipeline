@@ -1,0 +1,169 @@
+coding_scheme,cluster,profile,role,activity,frequency
+lin_dialogue_acts,0,Extended-engagement,model,Statement,0.24242
+lin_dialogue_acts,0,Extended-engagement,model,Question,0.15152
+lin_dialogue_acts,0,Extended-engagement,model,Directive,0.09091
+lin_dialogue_acts,0,Extended-engagement,model,Positive Feedback,0.09091
+lin_dialogue_acts,0,Extended-engagement,model,Acknowledge,0.06061
+lin_dialogue_acts,0,Extended-engagement,model,Hint,0.0
+lin_dialogue_acts,0,Extended-engagement,model,Request Confirmation,0.0
+lin_dialogue_acts,0,Extended-engagement,model,Request Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,model,Negative Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,model,Lukewarm Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,model,Correction,0.0
+lin_dialogue_acts,0,Extended-engagement,model,Answer,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Answer,0.12121
+lin_dialogue_acts,0,Extended-engagement,user,Hint,0.09091
+lin_dialogue_acts,0,Extended-engagement,user,Question,0.09091
+lin_dialogue_acts,0,Extended-engagement,user,Acknowledge,0.06061
+lin_dialogue_acts,0,Extended-engagement,user,Directive,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Request Confirmation,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Request Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Positive Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Negative Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Lukewarm Feedback,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Correction,0.0
+lin_dialogue_acts,0,Extended-engagement,user,Statement,0.0
+lin_dialogue_acts,1,Task-completion,model,Question,0.23684
+lin_dialogue_acts,1,Task-completion,model,Positive Feedback,0.23684
+lin_dialogue_acts,1,Task-completion,model,Directive,0.17544
+lin_dialogue_acts,1,Task-completion,model,Statement,0.11404
+lin_dialogue_acts,1,Task-completion,model,Hint,0.0
+lin_dialogue_acts,1,Task-completion,model,Acknowledge,0.0
+lin_dialogue_acts,1,Task-completion,model,Request Confirmation,0.0
+lin_dialogue_acts,1,Task-completion,model,Request Feedback,0.0
+lin_dialogue_acts,1,Task-completion,model,Negative Feedback,0.0
+lin_dialogue_acts,1,Task-completion,model,Lukewarm Feedback,0.0
+lin_dialogue_acts,1,Task-completion,model,Correction,0.0
+lin_dialogue_acts,1,Task-completion,model,Answer,0.0
+lin_dialogue_acts,1,Task-completion,user,Hint,0.23684
+lin_dialogue_acts,1,Task-completion,user,Directive,0.0
+lin_dialogue_acts,1,Task-completion,user,Acknowledge,0.0
+lin_dialogue_acts,1,Task-completion,user,Request Confirmation,0.0
+lin_dialogue_acts,1,Task-completion,user,Request Feedback,0.0
+lin_dialogue_acts,1,Task-completion,user,Positive Feedback,0.0
+lin_dialogue_acts,1,Task-completion,user,Negative Feedback,0.0
+lin_dialogue_acts,1,Task-completion,user,Lukewarm Feedback,0.0
+lin_dialogue_acts,1,Task-completion,user,Correction,0.0
+lin_dialogue_acts,1,Task-completion,user,Question,0.0
+lin_dialogue_acts,1,Task-completion,user,Answer,0.0
+lin_dialogue_acts,1,Task-completion,user,Statement,0.0
+lin_dialogue_acts,2,Front-loading,model,Question,0.21192
+lin_dialogue_acts,2,Front-loading,model,Statement,0.16556
+lin_dialogue_acts,2,Front-loading,model,Positive Feedback,0.16556
+lin_dialogue_acts,2,Front-loading,model,Directive,0.11921
+lin_dialogue_acts,2,Front-loading,model,Acknowledge,0.03311
+lin_dialogue_acts,2,Front-loading,model,Hint,0.0
+lin_dialogue_acts,2,Front-loading,model,Request Confirmation,0.0
+lin_dialogue_acts,2,Front-loading,model,Request Feedback,0.0
+lin_dialogue_acts,2,Front-loading,model,Negative Feedback,0.0
+lin_dialogue_acts,2,Front-loading,model,Lukewarm Feedback,0.0
+lin_dialogue_acts,2,Front-loading,model,Correction,0.0
+lin_dialogue_acts,2,Front-loading,model,Answer,0.0
+lin_dialogue_acts,2,Front-loading,user,Hint,0.17219
+lin_dialogue_acts,2,Front-loading,user,Acknowledge,0.05298
+lin_dialogue_acts,2,Front-loading,user,Question,0.03974
+lin_dialogue_acts,2,Front-loading,user,Answer,0.03974
+lin_dialogue_acts,2,Front-loading,user,Directive,0.0
+lin_dialogue_acts,2,Front-loading,user,Request Confirmation,0.0
+lin_dialogue_acts,2,Front-loading,user,Request Feedback,0.0
+lin_dialogue_acts,2,Front-loading,user,Positive Feedback,0.0
+lin_dialogue_acts,2,Front-loading,user,Negative Feedback,0.0
+lin_dialogue_acts,2,Front-loading,user,Lukewarm Feedback,0.0
+lin_dialogue_acts,2,Front-loading,user,Correction,0.0
+lin_dialogue_acts,2,Front-loading,user,Statement,0.0
+acosta_epistemic_stance,0,Assignment-driven,model,Other,0.23404
+acosta_epistemic_stance,0,Assignment-driven,model,K-,0.19149
+acosta_epistemic_stance,0,Assignment-driven,model,Reply-knowledge,0.19149
+acosta_epistemic_stance,0,Assignment-driven,model,K+,0.0
+acosta_epistemic_stance,0,Assignment-driven,model,Reply,0.0
+acosta_epistemic_stance,0,Assignment-driven,user,Reply,0.19149
+acosta_epistemic_stance,0,Assignment-driven,user,K-,0.09574
+acosta_epistemic_stance,0,Assignment-driven,user,K+,0.07447
+acosta_epistemic_stance,0,Assignment-driven,user,Reply-knowledge,0.02128
+acosta_epistemic_stance,0,Assignment-driven,user,Other,0.0
+acosta_epistemic_stance,1,Gap-filling,model,Other,0.41892
+acosta_epistemic_stance,1,Gap-filling,model,K-,0.22973
+acosta_epistemic_stance,1,Gap-filling,model,Reply-knowledge,0.08108
+acosta_epistemic_stance,1,Gap-filling,model,K+,0.0
+acosta_epistemic_stance,1,Gap-filling,model,Reply,0.0
+acosta_epistemic_stance,1,Gap-filling,user,K+,0.2027
+acosta_epistemic_stance,1,Gap-filling,user,Reply-knowledge,0.06757
+acosta_epistemic_stance,1,Gap-filling,user,K-,0.0
+acosta_epistemic_stance,1,Gap-filling,user,Reply,0.0
+acosta_epistemic_stance,1,Gap-filling,user,Other,0.0
+acosta_epistemic_stance,2,Sense-making,model,Other,0.30952
+acosta_epistemic_stance,2,Sense-making,model,K-,0.24405
+acosta_epistemic_stance,2,Sense-making,model,Reply-knowledge,0.16071
+acosta_epistemic_stance,2,Sense-making,model,K+,0.0
+acosta_epistemic_stance,2,Sense-making,model,Reply,0.0
+acosta_epistemic_stance,2,Sense-making,user,K+,0.15476
+acosta_epistemic_stance,2,Sense-making,user,Reply-knowledge,0.13095
+acosta_epistemic_stance,2,Sense-making,user,K-,0.0
+acosta_epistemic_stance,2,Sense-making,user,Reply,0.0
+acosta_epistemic_stance,2,Sense-making,user,Other,0.0
+del_bosque_cma,0,Tutored,model,Tutor Floor Initiating or Floor Mantaining,0.25
+del_bosque_cma,0,Tutored,model,Acknowledge Backchannel,0.25
+del_bosque_cma,0,Tutored,model,Tutor Diagnosing Base,0.16667
+del_bosque_cma,0,Tutored,model,Tutor Elicit Response,0.08333
+del_bosque_cma,0,Tutored,model,Tutor Question Response,0.0
+del_bosque_cma,0,Tutored,model,Student Backchannel,0.0
+del_bosque_cma,0,Tutored,model,Backchannel through Repetition,0.0
+del_bosque_cma,0,Tutored,model,Student Compound Contribution,0.0
+del_bosque_cma,0,Tutored,model,Student Question,0.0
+del_bosque_cma,0,Tutored,model,Exclamation,0.0
+del_bosque_cma,0,Tutored,model,No CMA Detected,0.0
+del_bosque_cma,0,Tutored,user,Student Compound Contribution,0.25
+del_bosque_cma,0,Tutored,user,Tutor Question Response,0.0
+del_bosque_cma,0,Tutored,user,Tutor Elicit Response,0.0
+del_bosque_cma,0,Tutored,user,Tutor Diagnosing Base,0.0
+del_bosque_cma,0,Tutored,user,Tutor Floor Initiating or Floor Mantaining,0.0
+del_bosque_cma,0,Tutored,user,Acknowledge Backchannel,0.0
+del_bosque_cma,0,Tutored,user,Student Backchannel,0.0
+del_bosque_cma,0,Tutored,user,Backchannel through Repetition,0.0
+del_bosque_cma,0,Tutored,user,Student Question,0.0
+del_bosque_cma,0,Tutored,user,Exclamation,0.0
+del_bosque_cma,0,Tutored,user,No CMA Detected,0.0
+del_bosque_cma,1,Passive,model,Tutor Floor Initiating or Floor Mantaining,0.18182
+del_bosque_cma,1,Passive,model,Tutor Question Response,0.18182
+del_bosque_cma,1,Passive,model,Tutor Elicit Response,0.09091
+del_bosque_cma,1,Passive,model,Tutor Diagnosing Base,0.09091
+del_bosque_cma,1,Passive,model,Acknowledge Backchannel,0.09091
+del_bosque_cma,1,Passive,model,Student Backchannel,0.0
+del_bosque_cma,1,Passive,model,Backchannel through Repetition,0.0
+del_bosque_cma,1,Passive,model,Student Compound Contribution,0.0
+del_bosque_cma,1,Passive,model,Student Question,0.0
+del_bosque_cma,1,Passive,model,Exclamation,0.0
+del_bosque_cma,1,Passive,model,No CMA Detected,0.0
+del_bosque_cma,1,Passive,user,Student Backchannel,0.18182
+del_bosque_cma,1,Passive,user,Student Compound Contribution,0.09091
+del_bosque_cma,1,Passive,user,Student Question,0.09091
+del_bosque_cma,1,Passive,user,Tutor Question Response,0.0
+del_bosque_cma,1,Passive,user,Tutor Elicit Response,0.0
+del_bosque_cma,1,Passive,user,Tutor Diagnosing Base,0.0
+del_bosque_cma,1,Passive,user,Tutor Floor Initiating or Floor Mantaining,0.0
+del_bosque_cma,1,Passive,user,Acknowledge Backchannel,0.0
+del_bosque_cma,1,Passive,user,Backchannel through Repetition,0.0
+del_bosque_cma,1,Passive,user,Exclamation,0.0
+del_bosque_cma,1,Passive,user,No CMA Detected,0.0
+del_bosque_cma,2,Collaborative,model,Tutor Floor Initiating or Floor Mantaining,0.4
+del_bosque_cma,2,Collaborative,model,Tutor Elicit Response,0.2
+del_bosque_cma,2,Collaborative,model,Acknowledge Backchannel,0.2
+del_bosque_cma,2,Collaborative,model,Tutor Question Response,0.0
+del_bosque_cma,2,Collaborative,model,Tutor Diagnosing Base,0.0
+del_bosque_cma,2,Collaborative,model,Student Backchannel,0.0
+del_bosque_cma,2,Collaborative,model,Backchannel through Repetition,0.0
+del_bosque_cma,2,Collaborative,model,Student Compound Contribution,0.0
+del_bosque_cma,2,Collaborative,model,Student Question,0.0
+del_bosque_cma,2,Collaborative,model,Exclamation,0.0
+del_bosque_cma,2,Collaborative,model,No CMA Detected,0.0
+del_bosque_cma,2,Collaborative,user,Student Compound Contribution,0.2
+del_bosque_cma,2,Collaborative,user,Tutor Question Response,0.0
+del_bosque_cma,2,Collaborative,user,Tutor Elicit Response,0.0
+del_bosque_cma,2,Collaborative,user,Tutor Diagnosing Base,0.0
+del_bosque_cma,2,Collaborative,user,Tutor Floor Initiating or Floor Mantaining,0.0
+del_bosque_cma,2,Collaborative,user,Acknowledge Backchannel,0.0
+del_bosque_cma,2,Collaborative,user,Student Backchannel,0.0
+del_bosque_cma,2,Collaborative,user,Backchannel through Repetition,0.0
+del_bosque_cma,2,Collaborative,user,Student Question,0.0
+del_bosque_cma,2,Collaborative,user,Exclamation,0.0
+del_bosque_cma,2,Collaborative,user,No CMA Detected,0.0

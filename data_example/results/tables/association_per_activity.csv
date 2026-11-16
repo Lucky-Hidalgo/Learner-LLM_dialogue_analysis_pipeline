@@ -1,0 +1,10 @@
+activity,pair,n,cramers_V,pct_cells_exp_lt5,p_asymptotic,p_perm,p_perm_holm
+Summary 2,ES x CMA,13,0.7638,100.0,0.0044,0.002,0.004
+Summary 2,ES x DA,13,0.5118,100.0,0.1463,0.1342,0.1342
+Summary 2,CMA x DA,13,0.488,100.0,0.1854,0.226,0.226
+Summary 4,ES x CMA,17,0.8165,100.0,0.0001,0.0002,0.0006
+Summary 4,ES x DA,17,0.6516,100.0,0.006,0.0078,0.0162
+Summary 4,CMA x DA,17,0.6401,88.8889,0.0075,0.007,0.0192
+Summary 5,ES x CMA,12,0.7084,100.0,0.017,0.0068,0.0068
+Summary 5,ES x DA,12,1.0,83.3333,0.0025,0.0054,0.0162
+Summary 5,CMA x DA,12,1.0,100.0,0.0025,0.0064,0.0192

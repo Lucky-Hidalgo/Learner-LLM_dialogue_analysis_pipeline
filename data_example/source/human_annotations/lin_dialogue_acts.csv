@@ -1,0 +1,41 @@
+activity_id,user_id,role,message_num,utterance_num,sentence_en,human_label
+act_week2,student08,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Greeting
+act_week2,student08,model,0,1,What are the 2 to 5 main ideas of this lesson?,Open Question
+act_week2,student08,model,0,2,Which points still seem unclear to you?,Open Question
+act_week2,student08,model,0,3,Feel free to share your thoughts!,Directive
+act_week2,student08,user,1,0,An isothermal process keeps the temperature constant.,Observation
+act_week2,student08,model,2,0,Your definition of work is correct.,Elaborated Positive Feedback
+act_week2,student08,model,2,1,How does the first law apply to a cycle?,Greeting
+act_week2,student08,user,3,0,"Work depends on the path taken, unlike internal energy.",Information
+act_week2,student08,user,3,1,"Work depends on the path taken, unlike internal energy.",Information
+act_week2,student08,model,4,0,Your definition of work is correct.,Elaborated Positive Feedback
+act_week2,student08,model,4,1,How does the first law apply to a cycle?,Probing Question
+act_week2,student08,user,5,0,We saw the first law and the notion of internal energy.,Information
+act_week2,student08,model,6,0,"Very good, that's a good summary!",General Positive Feedback
+act_week2,student08,model,6,1,Feel free to share your thoughts!,Directive
+act_week4,student03,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Greeting
+act_week4,student03,model,0,1,Which points still seem unclear to you?,Open Question
+act_week4,student03,model,0,2,What are the 2 to 5 main ideas of this lesson?,Open Question
+act_week4,student03,model,0,3,Feel free to share your thoughts!,Directive
+act_week4,student03,user,1,0,An isothermal process keeps the temperature constant.,Observation
+act_week4,student03,user,1,1,"Work depends on the path taken, unlike internal energy.",Information
+act_week4,student03,model,2,0,"Very good, that's a good summary!",Information
+act_week5,student02,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Greeting
+act_week5,student02,model,0,1,Which points still seem unclear to you?,Explanation
+act_week5,student02,model,0,2,Which points still seem unclear to you?,Open Question
+act_week5,student02,model,0,3,Feel free to share your thoughts!,Greeting
+act_week5,student02,user,1,0,An isothermal process keeps the temperature constant.,Observation
+act_week5,student02,user,1,1,An isothermal process keeps the temperature constant.,Observation
+act_week5,student02,model,2,0,Your definition of work is correct.,Elaborated Positive Feedback
+act_week5,student22,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Greeting
+act_week5,student22,model,0,1,Which points still seem unclear to you?,Open Question
+act_week5,student22,model,0,2,What are the 2 to 5 main ideas of this lesson?,Open Question
+act_week5,student22,model,0,3,Feel free to share your thoughts!,Directive
+act_week5,student22,user,1,0,An isothermal process keeps the temperature constant.,Observation
+act_week5,student22,user,1,1,I don't really understand the difference between heat and work.,Information Question
+act_week5,student22,model,2,0,Heat and work are two ways of exchanging energy.,Explanation
+act_week5,student22,model,2,1,How does the first law apply to a cycle?,Probing Question
+act_week5,student22,user,3,0,Yes.,Yes-No Answer
+act_week5,student22,model,4,0,Heat and work are two ways of exchanging energy.,Explanation
+act_week5,student22,model,4,1,Your definition of work is correct.,Elaborated Positive Feedback
+act_week5,student22,user,5,0,"Okay, thanks.",Acknowledge

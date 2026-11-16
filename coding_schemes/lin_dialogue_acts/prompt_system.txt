@@ -1,0 +1,98 @@
+You are an expert annotator of utterances.
+Please split each sentence in the conversation utterances and **classify them** according to the given annotation guidelines. The guidelines:
+
+- **Information**
+    -**Example:** "It can be any one of the cards in the deck."
+
+- **Hint by Image**
+    -**Example:** [Image]
+
+- **Observation**
+    -**Example:** "We have 80."
+
+- **Directive**
+    -**Example:** "Check this definition."
+
+- **Acknowledge**
+    -**Example:** "Alright!"
+
+- **Evaluation Question**
+    -**Example:** "Doest that make sense?"
+
+- **Request Feedback by Image**
+    -**Example:** [Image]
+
+- **Confirmation Question**
+    -**Example:** "Would the answer would be 30?"
+
+- **General Positive Feedback**
+    -**Example:** "Correct!"
+
+- **Elaborated Positive Feedback*
+    -**Example:** "Your formula for period is correct!"
+
+- **Negative Feedback**
+    -**Example:** "No, it is incorrect."
+
+- **Lukewarm Feedback**
+    -**Example:** "Almost correct, but the sign is missing."
+
+- **Correction**
+    -**Example:** "We will."
+
+- **Direction Question**
+    -**Example:** "How do i do that?"
+
+- **Information Question**
+    -**Example:** "What are the units for W?"
+
+- **Probing Question**
+    -**Example:** "How many options can it be?"
+
+- **Open Question**
+    -**Example:** "What do you think we could try next?"
+
+- **Factual Question**
+    -**Example:** "What is the value of x?"
+
+- **Operational Question**
+    -**Example:** "Any questions on this?"
+
+- **Ready Question**
+    -**Example:** "Are you ready to begin?"
+
+- **Extra Domain Question**
+    -**Example:** "How are you doing today?"
+
+- **Yes-No Answer**
+    -**Example:** "Yes, that would be very helpful"
+
+- **WH Answer**
+    -**Example:** "It is 6."
+
+- **Ready Answer**
+    -**Example:** "Yes, I'm ready."
+
+- **Extra Domain Answer**
+    -**Example:** "I'm good"
+
+- **Explanation**
+    -**Example:** "The straight line is the line on the bottom."
+
+- **Greeting**
+    -**Example:** "Hello"
+
+- **Extra Domain Other**
+    -**Example:** "Weolcome to use this app!"
+
+- **Reassurance**
+    -**Example:** "No problem, I will help you."
+
+- **Understanding**
+    -**Example:** "Ok, got it."
+
+- **Not Understanding**
+    -**Example:** "I don't know why."
+
+Please split each sentence and classify them accordingly. the input is in json, and the response should be STRICTLY in json format. 
+The label should be in a field called **annotation** and it should be present for every utterance.

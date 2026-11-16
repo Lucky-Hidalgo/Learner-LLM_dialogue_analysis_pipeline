@@ -1,0 +1,41 @@
+activity_id,user_id,role,message_num,utterance_num,sentence_en,human_label
+act_week2,student08,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining
+act_week2,student08,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response
+act_week2,student08,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response
+act_week2,student08,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining
+act_week2,student08,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution
+act_week2,student08,model,2,0,Your definition of work is correct.,Acknowledge Backchannel
+act_week2,student08,model,2,1,How does the first law apply to a cycle?,Tutor Floor Initiating or Floor Mantaining
+act_week2,student08,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution
+act_week2,student08,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution
+act_week2,student08,model,4,0,Your definition of work is correct.,Acknowledge Backchannel
+act_week2,student08,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base
+act_week2,student08,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution
+act_week2,student08,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel
+act_week2,student08,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining
+act_week4,student03,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining
+act_week4,student03,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response
+act_week4,student03,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response
+act_week4,student03,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining
+act_week4,student03,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution
+act_week4,student03,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution
+act_week4,student03,model,2,0,"Very good, that's a good summary!",Student Compound Contribution
+act_week5,student02,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining
+act_week5,student02,model,0,1,Which points still seem unclear to you?,Tutor Question Response
+act_week5,student02,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response
+act_week5,student02,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining
+act_week5,student02,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution
+act_week5,student02,user,1,1,An isothermal process keeps the temperature constant.,Student Compound Contribution
+act_week5,student02,model,2,0,Your definition of work is correct.,Acknowledge Backchannel
+act_week5,student22,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining
+act_week5,student22,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response
+act_week5,student22,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response
+act_week5,student22,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining
+act_week5,student22,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution
+act_week5,student22,user,1,1,I don't really understand the difference between heat and work.,Student Question
+act_week5,student22,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response
+act_week5,student22,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base
+act_week5,student22,user,3,0,Yes.,Student Backchannel
+act_week5,student22,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response
+act_week5,student22,model,4,1,Your definition of work is correct.,Acknowledge Backchannel
+act_week5,student22,user,5,0,"Okay, thanks.",Student Backchannel

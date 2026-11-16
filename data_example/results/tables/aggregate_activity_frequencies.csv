@@ -1,0 +1,57 @@
+coding_scheme,role,activity,frequency
+lin_dialogue_acts,model,Question,0.22087
+lin_dialogue_acts,model,Positive Feedback,0.19903
+lin_dialogue_acts,model,Directive,0.14806
+lin_dialogue_acts,model,Statement,0.1432
+lin_dialogue_acts,model,Acknowledge,0.01699
+lin_dialogue_acts,model,Hint,0.0
+lin_dialogue_acts,model,Request Confirmation,0.0
+lin_dialogue_acts,model,Request Feedback,0.0
+lin_dialogue_acts,model,Negative Feedback,0.0
+lin_dialogue_acts,model,Lukewarm Feedback,0.0
+lin_dialogue_acts,model,Correction,0.0
+lin_dialogue_acts,model,Answer,0.0
+lin_dialogue_acts,user,Hint,0.20146
+lin_dialogue_acts,user,Answer,0.02427
+lin_dialogue_acts,user,Acknowledge,0.02427
+lin_dialogue_acts,user,Question,0.02184
+lin_dialogue_acts,user,Directive,0.0
+lin_dialogue_acts,user,Request Confirmation,0.0
+lin_dialogue_acts,user,Request Feedback,0.0
+lin_dialogue_acts,user,Positive Feedback,0.0
+lin_dialogue_acts,user,Negative Feedback,0.0
+lin_dialogue_acts,user,Lukewarm Feedback,0.0
+lin_dialogue_acts,user,Correction,0.0
+lin_dialogue_acts,user,Statement,0.0
+acosta_epistemic_stance,model,Other,0.33171
+acosta_epistemic_stance,model,K-,0.22683
+acosta_epistemic_stance,model,Reply-knowledge,0.13902
+acosta_epistemic_stance,model,K+,0.0
+acosta_epistemic_stance,model,Reply,0.0
+acosta_epistemic_stance,user,K+,0.15366
+acosta_epistemic_stance,user,Reply-knowledge,0.08293
+acosta_epistemic_stance,user,Reply,0.0439
+acosta_epistemic_stance,user,K-,0.02195
+acosta_epistemic_stance,user,Other,0.0
+del_bosque_cma,model,Tutor Floor Initiating or Floor Mantaining,0.25547
+del_bosque_cma,model,Acknowledge Backchannel,0.20438
+del_bosque_cma,model,Tutor Diagnosing Base,0.12409
+del_bosque_cma,model,Tutor Elicit Response,0.10219
+del_bosque_cma,model,Tutor Question Response,0.0438
+del_bosque_cma,model,Student Backchannel,0.0
+del_bosque_cma,model,Backchannel through Repetition,0.0
+del_bosque_cma,model,Student Compound Contribution,0.0
+del_bosque_cma,model,Student Question,0.0
+del_bosque_cma,model,Exclamation,0.0
+del_bosque_cma,model,No CMA Detected,0.0
+del_bosque_cma,user,Student Compound Contribution,0.20438
+del_bosque_cma,user,Student Backchannel,0.0438
+del_bosque_cma,user,Student Question,0.0219
+del_bosque_cma,user,Tutor Question Response,0.0
+del_bosque_cma,user,Tutor Elicit Response,0.0
+del_bosque_cma,user,Tutor Diagnosing Base,0.0
+del_bosque_cma,user,Tutor Floor Initiating or Floor Mantaining,0.0
+del_bosque_cma,user,Acknowledge Backchannel,0.0
+del_bosque_cma,user,Backchannel through Repetition,0.0
+del_bosque_cma,user,Exclamation,0.0
+del_bosque_cma,user,No CMA Detected,0.0

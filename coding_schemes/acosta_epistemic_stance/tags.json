@@ -1,0 +1,11 @@
+{
+    "K+" : ["Utterances that index information"], 
+
+    "K-": ["Utterances that are hedges or requests"],
+
+    "Reply": ["Basic and simple replies to questions"],
+
+    "Reply-knowledge": ["Replies that provide content-based information"],
+
+    "Other": ["Other acts that maintain discussion"]
+}

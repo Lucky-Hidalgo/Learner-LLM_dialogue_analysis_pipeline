@@ -1,0 +1,25 @@
+{
+    "Tutor Question Response": ["Tutor Question Response"],
+
+    "Tutor Elicit Response" : ["Tutor Elicit Response"],
+
+    "Tutor Diagnosing Base": ["Tutor Diagnosing Base"],
+
+    "Tutor Floor Initiating or Floor Mantaining": ["Tutor Floor Initiating or Floor Mantaining"],
+
+    "Acknowledge Backchannel" : ["Acknowledge Backchannel"],
+    
+    "Student Backchannel": ["Student Backchannel"],
+
+    "Backchannel through Repetition" :["Backchannel through Repetition"],
+
+    "Student Compound Contribution":["Student Compound Contribution"],
+
+    "Student Question" : ["Student Question"], 
+
+    "Exclamation" : ["Exclamation"],
+
+    "No CMA Detected": ["Student Response"]
+
+}
+

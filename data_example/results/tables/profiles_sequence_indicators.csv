@@ -1,0 +1,10 @@
+coding_scheme,cluster,profile,pct_of_conversations,mean_n_states,median_n_states,mean_n_spells,median_n_spells,mean_complexity,median_complexity,mean_entropy,median_entropy
+lin_dialogue_acts,0,Extended-engagement,7.1,8.333,8.0,10.0,10.0,0.672,0.675,0.958,0.948
+lin_dialogue_acts,1,Task-completion,61.9,5.0,5.0,7.769,11.0,0.78,0.772,0.979,0.96
+lin_dialogue_acts,2,Front-loading,31.0,6.462,6.0,10.615,11.0,0.713,0.719,0.946,0.949
+acosta_epistemic_stance,0,Assignment-driven,21.4,6.0,6.0,9.444,9.0,0.735,0.738,0.969,0.976
+acosta_epistemic_stance,1,Gap-filling,42.9,3.833,4.0,7.222,5.0,0.831,0.827,0.922,0.913
+acosta_epistemic_stance,2,Sense-making,35.7,5.0,5.0,10.2,11.0,0.768,0.772,0.951,0.96
+del_bosque_cma,0,Tutored,50.0,5.0,5.0,11.0,11.0,0.772,0.772,0.96,0.96
+del_bosque_cma,1,Passive,21.4,8.0,8.0,10.0,10.0,0.683,0.683,0.971,0.971
+del_bosque_cma,2,Collaborative,28.6,4.0,4.0,4.0,4.0,0.833,0.833,0.961,0.961

@@ -1,0 +1,7 @@
+coding_scheme,comparison,utterances,pct_of_total,kappa_first_level,kappa_second_level
+Conversational Management Acts,Human-LLM,28,5.76,0.861,0.861
+Conversational Management Acts,LLM-LLM,486,100.0,0.91,0.91
+Dialogue act Scheme,Human-LLM,28,5.76,0.818,0.835
+Dialogue act Scheme,LLM-LLM,486,100.0,0.899,0.893
+Epistemic Stance,Human-LLM,28,5.76,0.855,0.855
+Epistemic Stance,LLM-LLM,486,100.0,0.915,0.915

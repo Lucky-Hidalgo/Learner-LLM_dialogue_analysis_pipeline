@@ -1,0 +1,411 @@
+case_id,activity_id,ocel:eid,ocel:type:model,ocel:type:user,ocel:type:conversation,ocel:activity,ocel:timestamp,sentence_en,role,user_id,label,type,cluster
+1,act_week2,1,['model_student01_1'],,['1'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student01,Other acts that maintain discussion,Other,2
+1,act_week2,2,['model_student01_1'],,['1'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student01,Utterances that are hedges or requests,K-,2
+1,act_week2,3,['model_student01_1'],,['1'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student01,Other acts that maintain discussion,Other,2
+1,act_week2,4,,['user_student01_1'],['1'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student01,Replies that provide content-based information,Reply-knowledge,2
+1,act_week2,5,['model_student01_1'],,['1'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student01,Replies that provide content-based information,Reply-knowledge,2
+1,act_week2,6,['model_student01_1'],,['1'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student01,Utterances that are hedges or requests,K-,2
+1,act_week2,7,,['user_student01_1'],['1'],K+,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student01,Utterances that index information,K+,2
+1,act_week2,8,['model_student01_1'],,['1'],Other,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student01,Other acts that maintain discussion,Other,2
+1,act_week2,9,['model_student01_1'],,['1'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student01,Utterances that are hedges or requests,K-,2
+1,act_week2,10,,['user_student01_1'],['1'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student01,Utterances that index information,K+,2
+1,act_week2,11,['model_student01_1'],,['1'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student01,Replies that provide content-based information,Reply-knowledge,2
+1,act_week2,12,['model_student01_1'],,['1'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student01,Other acts that maintain discussion,Other,2
+2,act_week2,13,['model_student03_2'],,['2'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student03,Other acts that maintain discussion,Other,1
+2,act_week2,14,['model_student03_2'],,['2'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student03,Utterances that are hedges or requests,K-,1
+2,act_week2,15,['model_student03_2'],,['2'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student03,Other acts that maintain discussion,Other,1
+2,act_week2,16,,['user_student03_2'],['2'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student03,Utterances that index information,K+,1
+2,act_week2,17,,['user_student03_2'],['2'],Reply-knowledge,2024-01-01 00:04:00,An isothermal process keeps the temperature constant.,user,student03,Replies that provide content-based information,Reply-knowledge,1
+2,act_week2,18,['model_student03_2'],,['2'],Other,2024-01-01 00:05:00,"Very good, that's a good summary!",model,student03,Other acts that maintain discussion,Other,1
+3,act_week2,19,['model_student04_3'],,['3'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student04,Other acts that maintain discussion,Other,1
+3,act_week2,20,['model_student04_3'],,['3'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student04,Utterances that are hedges or requests,K-,1
+3,act_week2,21,['model_student04_3'],,['3'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student04,Other acts that maintain discussion,Other,1
+3,act_week2,22,,['user_student04_3'],['3'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student04,Utterances that index information,K+,1
+3,act_week2,23,['model_student04_3'],,['3'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student04,Other acts that maintain discussion,Other,1
+3,act_week2,24,['model_student04_3'],,['3'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student04,Utterances that are hedges or requests,K-,1
+3,act_week2,25,,['user_student04_3'],['3'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student04,Utterances that index information,K+,1
+3,act_week2,26,['model_student04_3'],,['3'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student04,Replies that provide content-based information,Reply-knowledge,1
+3,act_week2,27,['model_student04_3'],,['3'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student04,Utterances that are hedges or requests,K-,1
+3,act_week2,28,,['user_student04_3'],['3'],K+,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student04,Utterances that index information,K+,1
+3,act_week2,29,['model_student04_3'],,['3'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student04,Replies that provide content-based information,Reply-knowledge,1
+3,act_week2,30,['model_student04_3'],,['3'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student04,Other acts that maintain discussion,Other,1
+4,act_week2,31,['model_student05_4'],,['4'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student05,Other acts that maintain discussion,Other,2
+4,act_week2,32,['model_student05_4'],,['4'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student05,Utterances that are hedges or requests,K-,2
+4,act_week2,33,['model_student05_4'],,['4'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student05,Other acts that maintain discussion,Other,2
+4,act_week2,34,,['user_student05_4'],['4'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student05,Replies that provide content-based information,Reply-knowledge,2
+4,act_week2,35,['model_student05_4'],,['4'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student05,Other acts that maintain discussion,Other,2
+4,act_week2,36,['model_student05_4'],,['4'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student05,Utterances that are hedges or requests,K-,2
+4,act_week2,37,,['user_student05_4'],['4'],K+,2024-01-01 00:06:00,We saw the first law and the notion of internal energy.,user,student05,Utterances that index information,K+,2
+4,act_week2,38,,['user_student05_4'],['4'],Reply-knowledge,2024-01-01 00:07:00,An isothermal process keeps the temperature constant.,user,student05,Replies that provide content-based information,Reply-knowledge,2
+4,act_week2,39,['model_student05_4'],,['4'],Other,2024-01-01 00:08:00,"Very good, that's a good summary!",model,student05,Other acts that maintain discussion,Other,2
+4,act_week2,40,['model_student05_4'],,['4'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student05,Utterances that are hedges or requests,K-,2
+4,act_week2,41,,['user_student05_4'],['4'],Reply-knowledge,2024-01-01 00:10:00,An isothermal process keeps the temperature constant.,user,student05,Replies that provide content-based information,Reply-knowledge,2
+4,act_week2,42,['model_student05_4'],,['4'],Reply-knowledge,2024-01-01 00:11:00,Your definition of work is correct.,model,student05,Replies that provide content-based information,Reply-knowledge,2
+4,act_week2,43,['model_student05_4'],,['4'],Other,2024-01-01 00:12:00,Feel free to share your thoughts!,model,student05,Other acts that maintain discussion,Other,2
+5,act_week2,44,['model_student08_5'],,['5'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student08,Other acts that maintain discussion,Other,2
+5,act_week2,45,['model_student08_5'],,['5'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student08,Utterances that are hedges or requests,K-,2
+5,act_week2,46,['model_student08_5'],,['5'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student08,Other acts that maintain discussion,Other,2
+5,act_week2,47,,['user_student08_5'],['5'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student08,Replies that provide content-based information,Reply-knowledge,2
+5,act_week2,48,['model_student08_5'],,['5'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student08,Replies that provide content-based information,Reply-knowledge,2
+5,act_week2,49,['model_student08_5'],,['5'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student08,Utterances that are hedges or requests,K-,2
+5,act_week2,50,,['user_student08_5'],['5'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student08,Utterances that index information,K+,2
+5,act_week2,51,['model_student08_5'],,['5'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student08,Replies that provide content-based information,Reply-knowledge,2
+5,act_week2,52,['model_student08_5'],,['5'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student08,Utterances that are hedges or requests,K-,2
+5,act_week2,53,,['user_student08_5'],['5'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student08,Utterances that index information,K+,2
+5,act_week2,54,['model_student08_5'],,['5'],Other,2024-01-01 00:10:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student08,Other acts that maintain discussion,Other,2
+6,act_week2,55,['model_student12_6'],,['6'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student12,Other acts that maintain discussion,Other,1
+6,act_week2,56,['model_student12_6'],,['6'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student12,Utterances that are hedges or requests,K-,1
+6,act_week2,57,['model_student12_6'],,['6'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student12,Other acts that maintain discussion,Other,1
+6,act_week2,58,,['user_student12_6'],['6'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student12,Utterances that index information,K+,1
+6,act_week2,59,['model_student12_6'],,['6'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student12,Other acts that maintain discussion,Other,1
+6,act_week2,60,['model_student12_6'],,['6'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student12,Utterances that are hedges or requests,K-,1
+6,act_week2,61,,['user_student12_6'],['6'],K+,2024-01-01 00:06:00,"We saw the first law and the notion of internal energy. Work depends on the path taken, unlike internal energy.",user,student12,Utterances that index information,K+,1
+6,act_week2,62,['model_student12_6'],,['6'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student12,Replies that provide content-based information,Reply-knowledge,1
+6,act_week2,63,['model_student12_6'],,['6'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student12,Utterances that are hedges or requests,K-,1
+6,act_week2,64,,['user_student12_6'],['6'],K+,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student12,Utterances that index information,K+,1
+6,act_week2,65,['model_student12_6'],,['6'],Other,2024-01-01 00:10:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student12,Other acts that maintain discussion,Other,1
+7,act_week2,66,['model_student13_7'],,['7'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student13,Other acts that maintain discussion,Other,2
+7,act_week2,67,['model_student13_7'],,['7'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student13,Utterances that are hedges or requests,K-,2
+7,act_week2,68,['model_student13_7'],,['7'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student13,Other acts that maintain discussion,Other,2
+7,act_week2,69,,['user_student13_7'],['7'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student13,Utterances that index information,K+,2
+7,act_week2,70,['model_student13_7'],,['7'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student13,Replies that provide content-based information,Reply-knowledge,2
+7,act_week2,71,['model_student13_7'],,['7'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student13,Utterances that are hedges or requests,K-,2
+7,act_week2,72,,['user_student13_7'],['7'],Reply-knowledge,2024-01-01 00:06:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student13,Replies that provide content-based information,Reply-knowledge,2
+7,act_week2,73,['model_student13_7'],,['7'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student13,Replies that provide content-based information,Reply-knowledge,2
+7,act_week2,74,['model_student13_7'],,['7'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student13,Utterances that are hedges or requests,K-,2
+7,act_week2,75,,['user_student13_7'],['7'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student13,Utterances that index information,K+,2
+7,act_week2,76,['model_student13_7'],,['7'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student13,Replies that provide content-based information,Reply-knowledge,2
+7,act_week2,77,['model_student13_7'],,['7'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student13,Other acts that maintain discussion,Other,2
+8,act_week2,78,['model_student15_8'],,['8'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student15,Other acts that maintain discussion,Other,2
+8,act_week2,79,['model_student15_8'],,['8'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student15,Utterances that are hedges or requests,K-,2
+8,act_week2,80,['model_student15_8'],,['8'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student15,Other acts that maintain discussion,Other,2
+8,act_week2,81,,['user_student15_8'],['8'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student15,Replies that provide content-based information,Reply-knowledge,2
+8,act_week2,82,['model_student15_8'],,['8'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,2
+8,act_week2,83,['model_student15_8'],,['8'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student15,Utterances that are hedges or requests,K-,2
+8,act_week2,84,,['user_student15_8'],['8'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student15,Utterances that index information,K+,2
+8,act_week2,85,['model_student15_8'],,['8'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,2
+8,act_week2,86,['model_student15_8'],,['8'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student15,Utterances that are hedges or requests,K-,2
+8,act_week2,87,,['user_student15_8'],['8'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student15,Utterances that index information,K+,2
+8,act_week2,88,['model_student15_8'],,['8'],Other,2024-01-01 00:10:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student15,Other acts that maintain discussion,Other,2
+9,act_week2,89,['model_student16_9'],,['9'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student16,Other acts that maintain discussion,Other,0
+9,act_week2,90,['model_student16_9'],,['9'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student16,Utterances that are hedges or requests,K-,0
+9,act_week2,91,['model_student16_9'],,['9'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student16,Other acts that maintain discussion,Other,0
+9,act_week2,92,,['user_student16_9'],['9'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student16,Utterances that index information,K+,0
+9,act_week2,93,,['user_student16_9'],['9'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student16,Utterances that are hedges or requests,K-,0
+9,act_week2,94,['model_student16_9'],,['9'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student16,Replies that provide content-based information,Reply-knowledge,0
+9,act_week2,95,['model_student16_9'],,['9'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student16,Utterances that are hedges or requests,K-,0
+9,act_week2,96,,['user_student16_9'],['9'],Reply,2024-01-01 00:07:00,"Okay, thanks.",user,student16,Basic and simple replies to questions,Reply,0
+9,act_week2,97,['model_student16_9'],,['9'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy. Your definition of work is correct.,model,student16,Replies that provide content-based information,Reply-knowledge,0
+9,act_week2,98,,['user_student16_9'],['9'],Reply,2024-01-01 00:09:00,"Okay, thanks.",user,student16,Basic and simple replies to questions,Reply,0
+10,act_week2,99,['model_student17_10'],,['10'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student17,Other acts that maintain discussion,Other,0
+10,act_week2,100,['model_student17_10'],,['10'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student17,Utterances that are hedges or requests,K-,0
+10,act_week2,101,['model_student17_10'],,['10'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student17,Other acts that maintain discussion,Other,0
+10,act_week2,102,,['user_student17_10'],['10'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student17,Utterances that index information,K+,0
+10,act_week2,103,,['user_student17_10'],['10'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student17,Utterances that are hedges or requests,K-,0
+10,act_week2,104,['model_student17_10'],,['10'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student17,Replies that provide content-based information,Reply-knowledge,0
+10,act_week2,105,['model_student17_10'],,['10'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student17,Utterances that are hedges or requests,K-,0
+10,act_week2,106,,['user_student17_10'],['10'],Reply,2024-01-01 00:07:00,Yes.,user,student17,Basic and simple replies to questions,Reply,0
+10,act_week2,107,['model_student17_10'],,['10'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student17,Replies that provide content-based information,Reply-knowledge,0
+10,act_week2,108,['model_student17_10'],,['10'],Other,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student17,Other acts that maintain discussion,Other,0
+10,act_week2,109,,['user_student17_10'],['10'],Reply,2024-01-01 00:10:00,Yes.,user,student17,Basic and simple replies to questions,Reply,0
+11,act_week2,110,['model_student18_11'],,['11'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student18,Other acts that maintain discussion,Other,1
+11,act_week2,111,['model_student18_11'],,['11'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student18,Utterances that are hedges or requests,K-,1
+11,act_week2,112,['model_student18_11'],,['11'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student18,Other acts that maintain discussion,Other,1
+11,act_week2,113,,['user_student18_11'],['11'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student18,Utterances that index information,K+,1
+11,act_week2,114,['model_student18_11'],,['11'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student18,Other acts that maintain discussion,Other,1
+11,act_week2,115,['model_student18_11'],,['11'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student18,Utterances that are hedges or requests,K-,1
+11,act_week2,116,,['user_student18_11'],['11'],K+,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student18,Utterances that index information,K+,1
+11,act_week2,117,['model_student18_11'],,['11'],Other,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student18,Other acts that maintain discussion,Other,1
+11,act_week2,118,['model_student18_11'],,['11'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student18,Utterances that are hedges or requests,K-,1
+11,act_week2,119,,['user_student18_11'],['11'],Reply-knowledge,2024-01-01 00:09:00,An isothermal process keeps the temperature constant.,user,student18,Replies that provide content-based information,Reply-knowledge,1
+11,act_week2,120,['model_student18_11'],,['11'],Other,2024-01-01 00:10:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student18,Other acts that maintain discussion,Other,1
+12,act_week2,121,['model_student19_12'],,['12'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student19,Other acts that maintain discussion,Other,2
+12,act_week2,122,['model_student19_12'],,['12'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student19,Utterances that are hedges or requests,K-,2
+12,act_week2,123,['model_student19_12'],,['12'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student19,Other acts that maintain discussion,Other,2
+12,act_week2,124,,['user_student19_12'],['12'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student19,Replies that provide content-based information,Reply-knowledge,2
+12,act_week2,125,['model_student19_12'],,['12'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student19,Other acts that maintain discussion,Other,2
+12,act_week2,126,['model_student19_12'],,['12'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student19,Utterances that are hedges or requests,K-,2
+12,act_week2,127,,['user_student19_12'],['12'],K+,2024-01-01 00:06:00,"We saw the first law and the notion of internal energy. Work depends on the path taken, unlike internal energy.",user,student19,Utterances that index information,K+,2
+12,act_week2,128,['model_student19_12'],,['12'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student19,Replies that provide content-based information,Reply-knowledge,2
+12,act_week2,129,['model_student19_12'],,['12'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student19,Utterances that are hedges or requests,K-,2
+12,act_week2,130,,['user_student19_12'],['12'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student19,Utterances that index information,K+,2
+12,act_week2,131,['model_student19_12'],,['12'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student19,Replies that provide content-based information,Reply-knowledge,2
+12,act_week2,132,['model_student19_12'],,['12'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student19,Other acts that maintain discussion,Other,2
+13,act_week2,133,['model_student21_13'],,['13'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student21,Other acts that maintain discussion,Other,0
+13,act_week2,134,['model_student21_13'],,['13'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student21,Utterances that are hedges or requests,K-,0
+13,act_week2,135,['model_student21_13'],,['13'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student21,Other acts that maintain discussion,Other,0
+13,act_week2,136,,['user_student21_13'],['13'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student21,Replies that provide content-based information,Reply-knowledge,0
+13,act_week2,137,,['user_student21_13'],['13'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student21,Utterances that are hedges or requests,K-,0
+13,act_week2,138,['model_student21_13'],,['13'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student21,Replies that provide content-based information,Reply-knowledge,0
+13,act_week2,139,['model_student21_13'],,['13'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student21,Utterances that are hedges or requests,K-,0
+13,act_week2,140,,['user_student21_13'],['13'],Reply,2024-01-01 00:07:00,Yes.,user,student21,Basic and simple replies to questions,Reply,0
+13,act_week2,141,['model_student21_13'],,['13'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy. Your definition of work is correct.,model,student21,Replies that provide content-based information,Reply-knowledge,0
+13,act_week2,142,,['user_student21_13'],['13'],Reply,2024-01-01 00:09:00,"Okay, thanks.",user,student21,Basic and simple replies to questions,Reply,0
+14,act_week4,143,['model_student01_14'],,['14'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student01,Other acts that maintain discussion,Other,1
+14,act_week4,144,['model_student01_14'],,['14'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student01,Utterances that are hedges or requests,K-,1
+14,act_week4,145,['model_student01_14'],,['14'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student01,Other acts that maintain discussion,Other,1
+14,act_week4,146,,['user_student01_14'],['14'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student01,Utterances that index information,K+,1
+14,act_week4,147,['model_student01_14'],,['14'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student01,Other acts that maintain discussion,Other,1
+15,act_week4,148,['model_student02_15'],,['15'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student02,Other acts that maintain discussion,Other,2
+15,act_week4,149,['model_student02_15'],,['15'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student02,Utterances that are hedges or requests,K-,2
+15,act_week4,150,['model_student02_15'],,['15'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student02,Other acts that maintain discussion,Other,2
+15,act_week4,151,,['user_student02_15'],['15'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student02,Utterances that index information,K+,2
+15,act_week4,152,['model_student02_15'],,['15'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student02,Other acts that maintain discussion,Other,2
+15,act_week4,153,['model_student02_15'],,['15'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student02,Utterances that are hedges or requests,K-,2
+15,act_week4,154,,['user_student02_15'],['15'],Reply-knowledge,2024-01-01 00:06:00,An isothermal process keeps the temperature constant.,user,student02,Replies that provide content-based information,Reply-knowledge,2
+15,act_week4,155,,['user_student02_15'],['15'],K+,2024-01-01 00:07:00,"Work depends on the path taken, unlike internal energy.",user,student02,Utterances that index information,K+,2
+15,act_week4,156,['model_student02_15'],,['15'],Other,2024-01-01 00:08:00,"Very good, that's a good summary!",model,student02,Other acts that maintain discussion,Other,2
+15,act_week4,157,['model_student02_15'],,['15'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student02,Utterances that are hedges or requests,K-,2
+15,act_week4,158,,['user_student02_15'],['15'],K+,2024-01-01 00:10:00,We saw the first law and the notion of internal energy.,user,student02,Utterances that index information,K+,2
+15,act_week4,159,['model_student02_15'],,['15'],Reply-knowledge,2024-01-01 00:11:00,Your definition of work is correct.,model,student02,Replies that provide content-based information,Reply-knowledge,2
+15,act_week4,160,['model_student02_15'],,['15'],Other,2024-01-01 00:12:00,Feel free to share your thoughts!,model,student02,Other acts that maintain discussion,Other,2
+16,act_week4,161,['model_student03_16'],,['16'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student03,Other acts that maintain discussion,Other,1
+16,act_week4,162,['model_student03_16'],,['16'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student03,Utterances that are hedges or requests,K-,1
+16,act_week4,163,['model_student03_16'],,['16'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student03,Other acts that maintain discussion,Other,1
+16,act_week4,164,,['user_student03_16'],['16'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student03,Replies that provide content-based information,Reply-knowledge,1
+16,act_week4,165,,['user_student03_16'],['16'],K+,2024-01-01 00:04:00,"Work depends on the path taken, unlike internal energy.",user,student03,Utterances that index information,K+,1
+16,act_week4,166,['model_student03_16'],,['16'],Other,2024-01-01 00:05:00,"Very good, that's a good summary!",model,student03,Other acts that maintain discussion,Other,1
+17,act_week4,167,['model_student04_17'],,['17'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student04,Other acts that maintain discussion,Other,2
+17,act_week4,168,['model_student04_17'],,['17'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student04,Utterances that are hedges or requests,K-,2
+17,act_week4,169,['model_student04_17'],,['17'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student04,Other acts that maintain discussion,Other,2
+17,act_week4,170,,['user_student04_17'],['17'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student04,Replies that provide content-based information,Reply-knowledge,2
+17,act_week4,171,,['user_student04_17'],['17'],K+,2024-01-01 00:04:00,"Work depends on the path taken, unlike internal energy.",user,student04,Utterances that index information,K+,2
+17,act_week4,172,['model_student04_17'],,['17'],Reply-knowledge,2024-01-01 00:05:00,Your definition of work is correct.,model,student04,Replies that provide content-based information,Reply-knowledge,2
+18,act_week4,173,['model_student06_18'],,['18'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student06,Other acts that maintain discussion,Other,1
+18,act_week4,174,['model_student06_18'],,['18'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student06,Utterances that are hedges or requests,K-,1
+18,act_week4,175,['model_student06_18'],,['18'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student06,Other acts that maintain discussion,Other,1
+18,act_week4,176,,['user_student06_18'],['18'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student06,Replies that provide content-based information,Reply-knowledge,1
+18,act_week4,177,,['user_student06_18'],['18'],K+,2024-01-01 00:04:00,"Work depends on the path taken, unlike internal energy.",user,student06,Utterances that index information,K+,1
+18,act_week4,178,['model_student06_18'],,['18'],Other,2024-01-01 00:05:00,"Very good, that's a good summary!",model,student06,Other acts that maintain discussion,Other,1
+19,act_week4,179,['model_student07_19'],,['19'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student07,Other acts that maintain discussion,Other,0
+19,act_week4,180,['model_student07_19'],,['19'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student07,Utterances that are hedges or requests,K-,0
+19,act_week4,181,['model_student07_19'],,['19'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student07,Other acts that maintain discussion,Other,0
+19,act_week4,182,,['user_student07_19'],['19'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student07,Utterances that index information,K+,0
+19,act_week4,183,,['user_student07_19'],['19'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student07,Utterances that are hedges or requests,K-,0
+19,act_week4,184,['model_student07_19'],,['19'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student07,Replies that provide content-based information,Reply-knowledge,0
+19,act_week4,185,['model_student07_19'],,['19'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student07,Utterances that are hedges or requests,K-,0
+19,act_week4,186,,['user_student07_19'],['19'],Reply,2024-01-01 00:07:00,Yes.,user,student07,Basic and simple replies to questions,Reply,0
+19,act_week4,187,['model_student07_19'],,['19'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student07,Replies that provide content-based information,Reply-knowledge,0
+19,act_week4,188,['model_student07_19'],,['19'],Other,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student07,Other acts that maintain discussion,Other,0
+19,act_week4,189,,['user_student07_19'],['19'],Reply,2024-01-01 00:10:00,Yes.,user,student07,Basic and simple replies to questions,Reply,0
+20,act_week4,190,['model_student08_20'],,['20'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student08,Other acts that maintain discussion,Other,2
+20,act_week4,191,['model_student08_20'],,['20'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student08,Utterances that are hedges or requests,K-,2
+20,act_week4,192,['model_student08_20'],,['20'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student08,Other acts that maintain discussion,Other,2
+20,act_week4,193,,['user_student08_20'],['20'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student08,Replies that provide content-based information,Reply-knowledge,2
+20,act_week4,194,['model_student08_20'],,['20'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student08,Replies that provide content-based information,Reply-knowledge,2
+20,act_week4,195,['model_student08_20'],,['20'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student08,Utterances that are hedges or requests,K-,2
+20,act_week4,196,,['user_student08_20'],['20'],Reply-knowledge,2024-01-01 00:06:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student08,Replies that provide content-based information,Reply-knowledge,2
+20,act_week4,197,['model_student08_20'],,['20'],Other,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student08,Other acts that maintain discussion,Other,2
+20,act_week4,198,['model_student08_20'],,['20'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student08,Utterances that are hedges or requests,K-,2
+20,act_week4,199,,['user_student08_20'],['20'],K+,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student08,Utterances that index information,K+,2
+20,act_week4,200,['model_student08_20'],,['20'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student08,Replies that provide content-based information,Reply-knowledge,2
+20,act_week4,201,['model_student08_20'],,['20'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student08,Other acts that maintain discussion,Other,2
+21,act_week4,202,['model_student10_21'],,['21'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student10,Other acts that maintain discussion,Other,2
+21,act_week4,203,['model_student10_21'],,['21'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student10,Utterances that are hedges or requests,K-,2
+21,act_week4,204,['model_student10_21'],,['21'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student10,Other acts that maintain discussion,Other,2
+21,act_week4,205,,['user_student10_21'],['21'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student10,Utterances that index information,K+,2
+21,act_week4,206,['model_student10_21'],,['21'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student10,Replies that provide content-based information,Reply-knowledge,2
+21,act_week4,207,['model_student10_21'],,['21'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student10,Utterances that are hedges or requests,K-,2
+21,act_week4,208,,['user_student10_21'],['21'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy.",user,student10,Utterances that index information,K+,2
+21,act_week4,209,,['user_student10_21'],['21'],Reply-knowledge,2024-01-01 00:07:00,An isothermal process keeps the temperature constant.,user,student10,Replies that provide content-based information,Reply-knowledge,2
+21,act_week4,210,['model_student10_21'],,['21'],Reply-knowledge,2024-01-01 00:08:00,Your definition of work is correct.,model,student10,Replies that provide content-based information,Reply-knowledge,2
+21,act_week4,211,['model_student10_21'],,['21'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student10,Utterances that are hedges or requests,K-,2
+21,act_week4,212,,['user_student10_21'],['21'],Reply-knowledge,2024-01-01 00:10:00,An isothermal process keeps the temperature constant.,user,student10,Replies that provide content-based information,Reply-knowledge,2
+21,act_week4,213,['model_student10_21'],,['21'],Other,2024-01-01 00:11:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student10,Other acts that maintain discussion,Other,2
+22,act_week4,214,['model_student11_22'],,['22'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student11,Other acts that maintain discussion,Other,0
+22,act_week4,215,['model_student11_22'],,['22'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student11,Utterances that are hedges or requests,K-,0
+22,act_week4,216,['model_student11_22'],,['22'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student11,Other acts that maintain discussion,Other,0
+22,act_week4,217,,['user_student11_22'],['22'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student11,Utterances that index information,K+,0
+22,act_week4,218,,['user_student11_22'],['22'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student11,Utterances that are hedges or requests,K-,0
+22,act_week4,219,['model_student11_22'],,['22'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student11,Replies that provide content-based information,Reply-knowledge,0
+22,act_week4,220,['model_student11_22'],,['22'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student11,Utterances that are hedges or requests,K-,0
+22,act_week4,221,,['user_student11_22'],['22'],Reply,2024-01-01 00:07:00,"Okay, thanks.",user,student11,Basic and simple replies to questions,Reply,0
+22,act_week4,222,['model_student11_22'],,['22'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy. Your definition of work is correct.,model,student11,Replies that provide content-based information,Reply-knowledge,0
+22,act_week4,223,,['user_student11_22'],['22'],Reply,2024-01-01 00:09:00,"Okay, thanks.",user,student11,Basic and simple replies to questions,Reply,0
+23,act_week4,224,['model_student13_23'],,['23'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student13,Other acts that maintain discussion,Other,1
+23,act_week4,225,['model_student13_23'],,['23'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student13,Utterances that are hedges or requests,K-,1
+23,act_week4,226,['model_student13_23'],,['23'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student13,Other acts that maintain discussion,Other,1
+23,act_week4,227,,['user_student13_23'],['23'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student13,Utterances that index information,K+,1
+23,act_week4,228,['model_student13_23'],,['23'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student13,Other acts that maintain discussion,Other,1
+24,act_week4,229,['model_student14_24'],,['24'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student14,Other acts that maintain discussion,Other,1
+24,act_week4,230,['model_student14_24'],,['24'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student14,Utterances that are hedges or requests,K-,1
+24,act_week4,231,['model_student14_24'],,['24'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student14,Other acts that maintain discussion,Other,1
+24,act_week4,232,,['user_student14_24'],['24'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student14,Utterances that index information,K+,1
+24,act_week4,233,['model_student14_24'],,['24'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student14,Other acts that maintain discussion,Other,1
+24,act_week4,234,['model_student14_24'],,['24'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student14,Utterances that are hedges or requests,K-,1
+24,act_week4,235,,['user_student14_24'],['24'],K+,2024-01-01 00:06:00,We saw the first law and the notion of internal energy.,user,student14,Utterances that index information,K+,1
+24,act_week4,236,,['user_student14_24'],['24'],Reply-knowledge,2024-01-01 00:07:00,An isothermal process keeps the temperature constant.,user,student14,Replies that provide content-based information,Reply-knowledge,1
+24,act_week4,237,['model_student14_24'],,['24'],Other,2024-01-01 00:08:00,"Very good, that's a good summary!",model,student14,Other acts that maintain discussion,Other,1
+24,act_week4,238,['model_student14_24'],,['24'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student14,Utterances that are hedges or requests,K-,1
+24,act_week4,239,,['user_student14_24'],['24'],K+,2024-01-01 00:10:00,"Work depends on the path taken, unlike internal energy.",user,student14,Utterances that index information,K+,1
+24,act_week4,240,['model_student14_24'],,['24'],Other,2024-01-01 00:11:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student14,Other acts that maintain discussion,Other,1
+25,act_week4,241,['model_student15_25'],,['25'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student15,Other acts that maintain discussion,Other,2
+25,act_week4,242,['model_student15_25'],,['25'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student15,Utterances that are hedges or requests,K-,2
+25,act_week4,243,['model_student15_25'],,['25'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student15,Other acts that maintain discussion,Other,2
+25,act_week4,244,,['user_student15_25'],['25'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student15,Replies that provide content-based information,Reply-knowledge,2
+25,act_week4,245,['model_student15_25'],,['25'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,2
+25,act_week4,246,['model_student15_25'],,['25'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student15,Utterances that are hedges or requests,K-,2
+25,act_week4,247,,['user_student15_25'],['25'],Reply-knowledge,2024-01-01 00:06:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student15,Replies that provide content-based information,Reply-knowledge,2
+25,act_week4,248,['model_student15_25'],,['25'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,2
+25,act_week4,249,['model_student15_25'],,['25'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student15,Utterances that are hedges or requests,K-,2
+25,act_week4,250,,['user_student15_25'],['25'],K+,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student15,Utterances that index information,K+,2
+25,act_week4,251,['model_student15_25'],,['25'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,2
+25,act_week4,252,['model_student15_25'],,['25'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student15,Other acts that maintain discussion,Other,2
+26,act_week4,253,['model_student16_26'],,['26'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student16,Other acts that maintain discussion,Other,0
+26,act_week4,254,['model_student16_26'],,['26'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student16,Utterances that are hedges or requests,K-,0
+26,act_week4,255,['model_student16_26'],,['26'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student16,Other acts that maintain discussion,Other,0
+26,act_week4,256,,['user_student16_26'],['26'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student16,Replies that provide content-based information,Reply-knowledge,0
+26,act_week4,257,,['user_student16_26'],['26'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student16,Utterances that are hedges or requests,K-,0
+26,act_week4,258,['model_student16_26'],,['26'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student16,Replies that provide content-based information,Reply-knowledge,0
+26,act_week4,259,['model_student16_26'],,['26'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student16,Utterances that are hedges or requests,K-,0
+26,act_week4,260,,['user_student16_26'],['26'],Reply,2024-01-01 00:07:00,Yes.,user,student16,Basic and simple replies to questions,Reply,0
+26,act_week4,261,['model_student16_26'],,['26'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student16,Replies that provide content-based information,Reply-knowledge,0
+26,act_week4,262,['model_student16_26'],,['26'],Other,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student16,Other acts that maintain discussion,Other,0
+26,act_week4,263,,['user_student16_26'],['26'],Reply,2024-01-01 00:10:00,"Okay, thanks.",user,student16,Basic and simple replies to questions,Reply,0
+27,act_week4,264,['model_student17_27'],,['27'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student17,Other acts that maintain discussion,Other,1
+27,act_week4,265,['model_student17_27'],,['27'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student17,Utterances that are hedges or requests,K-,1
+27,act_week4,266,['model_student17_27'],,['27'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student17,Other acts that maintain discussion,Other,1
+27,act_week4,267,,['user_student17_27'],['27'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student17,Replies that provide content-based information,Reply-knowledge,1
+27,act_week4,268,['model_student17_27'],,['27'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student17,Other acts that maintain discussion,Other,1
+28,act_week4,269,['model_student18_28'],,['28'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student18,Other acts that maintain discussion,Other,2
+28,act_week4,270,['model_student18_28'],,['28'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student18,Utterances that are hedges or requests,K-,2
+28,act_week4,271,['model_student18_28'],,['28'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student18,Other acts that maintain discussion,Other,2
+28,act_week4,272,,['user_student18_28'],['28'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student18,Replies that provide content-based information,Reply-knowledge,2
+28,act_week4,273,['model_student18_28'],,['28'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student18,Other acts that maintain discussion,Other,2
+28,act_week4,274,['model_student18_28'],,['28'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student18,Utterances that are hedges or requests,K-,2
+28,act_week4,275,,['user_student18_28'],['28'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy.",user,student18,Utterances that index information,K+,2
+28,act_week4,276,,['user_student18_28'],['28'],Reply-knowledge,2024-01-01 00:07:00,An isothermal process keeps the temperature constant.,user,student18,Replies that provide content-based information,Reply-knowledge,2
+28,act_week4,277,['model_student18_28'],,['28'],Reply-knowledge,2024-01-01 00:08:00,Your definition of work is correct.,model,student18,Replies that provide content-based information,Reply-knowledge,2
+28,act_week4,278,['model_student18_28'],,['28'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student18,Utterances that are hedges or requests,K-,2
+28,act_week4,279,,['user_student18_28'],['28'],K+,2024-01-01 00:10:00,We saw the first law and the notion of internal energy.,user,student18,Utterances that index information,K+,2
+28,act_week4,280,['model_student18_28'],,['28'],Other,2024-01-01 00:11:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student18,Other acts that maintain discussion,Other,2
+29,act_week4,281,['model_student19_29'],,['29'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student19,Other acts that maintain discussion,Other,2
+29,act_week4,282,['model_student19_29'],,['29'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student19,Utterances that are hedges or requests,K-,2
+29,act_week4,283,['model_student19_29'],,['29'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student19,Other acts that maintain discussion,Other,2
+29,act_week4,284,,['user_student19_29'],['29'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student19,Utterances that index information,K+,2
+29,act_week4,285,['model_student19_29'],,['29'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student19,Other acts that maintain discussion,Other,2
+29,act_week4,286,['model_student19_29'],,['29'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student19,Utterances that are hedges or requests,K-,2
+29,act_week4,287,,['user_student19_29'],['29'],K+,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student19,Utterances that index information,K+,2
+29,act_week4,288,['model_student19_29'],,['29'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student19,Replies that provide content-based information,Reply-knowledge,2
+29,act_week4,289,['model_student19_29'],,['29'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student19,Utterances that are hedges or requests,K-,2
+29,act_week4,290,,['user_student19_29'],['29'],Reply-knowledge,2024-01-01 00:09:00,An isothermal process keeps the temperature constant.,user,student19,Replies that provide content-based information,Reply-knowledge,2
+29,act_week4,291,['model_student19_29'],,['29'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student19,Replies that provide content-based information,Reply-knowledge,2
+29,act_week4,292,['model_student19_29'],,['29'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student19,Other acts that maintain discussion,Other,2
+30,act_week4,293,['model_student21_30'],,['30'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student21,Other acts that maintain discussion,Other,1
+30,act_week4,294,['model_student21_30'],,['30'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student21,Utterances that are hedges or requests,K-,1
+30,act_week4,295,['model_student21_30'],,['30'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student21,Other acts that maintain discussion,Other,1
+30,act_week4,296,,['user_student21_30'],['30'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student21,Utterances that index information,K+,1
+30,act_week4,297,['model_student21_30'],,['30'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student21,Other acts that maintain discussion,Other,1
+30,act_week4,298,['model_student21_30'],,['30'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student21,Utterances that are hedges or requests,K-,1
+30,act_week4,299,,['user_student21_30'],['30'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student21,Utterances that index information,K+,1
+30,act_week4,300,['model_student21_30'],,['30'],Other,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student21,Other acts that maintain discussion,Other,1
+30,act_week4,301,['model_student21_30'],,['30'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student21,Utterances that are hedges or requests,K-,1
+30,act_week4,302,,['user_student21_30'],['30'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student21,Utterances that index information,K+,1
+30,act_week4,303,['model_student21_30'],,['30'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student21,Replies that provide content-based information,Reply-knowledge,1
+30,act_week4,304,['model_student21_30'],,['30'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student21,Other acts that maintain discussion,Other,1
+31,act_week5,305,['model_student02_31'],,['31'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student02,Other acts that maintain discussion,Other,1
+31,act_week5,306,['model_student02_31'],,['31'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student02,Utterances that are hedges or requests,K-,1
+31,act_week5,307,['model_student02_31'],,['31'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student02,Other acts that maintain discussion,Other,1
+31,act_week5,308,,['user_student02_31'],['31'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student02,Replies that provide content-based information,Reply-knowledge,1
+31,act_week5,309,['model_student02_31'],,['31'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student02,Replies that provide content-based information,Reply-knowledge,1
+32,act_week5,310,['model_student04_32'],,['32'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student04,Other acts that maintain discussion,Other,2
+32,act_week5,311,['model_student04_32'],,['32'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student04,Utterances that are hedges or requests,K-,2
+32,act_week5,312,['model_student04_32'],,['32'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student04,Other acts that maintain discussion,Other,2
+32,act_week5,313,,['user_student04_32'],['32'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student04,Replies that provide content-based information,Reply-knowledge,2
+32,act_week5,314,['model_student04_32'],,['32'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student04,Replies that provide content-based information,Reply-knowledge,2
+32,act_week5,315,['model_student04_32'],,['32'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student04,Utterances that are hedges or requests,K-,2
+32,act_week5,316,,['user_student04_32'],['32'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy.",user,student04,Utterances that index information,K+,2
+32,act_week5,317,,['user_student04_32'],['32'],Reply-knowledge,2024-01-01 00:07:00,An isothermal process keeps the temperature constant.,user,student04,Replies that provide content-based information,Reply-knowledge,2
+32,act_week5,318,['model_student04_32'],,['32'],Reply-knowledge,2024-01-01 00:08:00,Your definition of work is correct.,model,student04,Replies that provide content-based information,Reply-knowledge,2
+32,act_week5,319,['model_student04_32'],,['32'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student04,Utterances that are hedges or requests,K-,2
+32,act_week5,320,,['user_student04_32'],['32'],K+,2024-01-01 00:10:00,We saw the first law and the notion of internal energy.,user,student04,Utterances that index information,K+,2
+32,act_week5,321,['model_student04_32'],,['32'],Other,2024-01-01 00:11:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student04,Other acts that maintain discussion,Other,2
+33,act_week5,322,['model_student07_33'],,['33'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student07,Other acts that maintain discussion,Other,1
+33,act_week5,323,['model_student07_33'],,['33'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student07,Utterances that are hedges or requests,K-,1
+33,act_week5,324,['model_student07_33'],,['33'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student07,Other acts that maintain discussion,Other,1
+33,act_week5,325,,['user_student07_33'],['33'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student07,Utterances that index information,K+,1
+33,act_week5,326,['model_student07_33'],,['33'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student07,Replies that provide content-based information,Reply-knowledge,1
+33,act_week5,327,['model_student07_33'],,['33'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student07,Utterances that are hedges or requests,K-,1
+33,act_week5,328,,['user_student07_33'],['33'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. We saw the first law and the notion of internal energy.",user,student07,Utterances that index information,K+,1
+33,act_week5,329,['model_student07_33'],,['33'],Other,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student07,Other acts that maintain discussion,Other,1
+33,act_week5,330,['model_student07_33'],,['33'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student07,Utterances that are hedges or requests,K-,1
+33,act_week5,331,,['user_student07_33'],['33'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student07,Utterances that index information,K+,1
+33,act_week5,332,['model_student07_33'],,['33'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student07,Replies that provide content-based information,Reply-knowledge,1
+33,act_week5,333,['model_student07_33'],,['33'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student07,Other acts that maintain discussion,Other,1
+34,act_week5,334,['model_student09_34'],,['34'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student09,Other acts that maintain discussion,Other,1
+34,act_week5,335,['model_student09_34'],,['34'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student09,Utterances that are hedges or requests,K-,1
+34,act_week5,336,['model_student09_34'],,['34'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student09,Other acts that maintain discussion,Other,1
+34,act_week5,337,,['user_student09_34'],['34'],K+,2024-01-01 00:03:00,"We saw the first law and the notion of internal energy. Work depends on the path taken, unlike internal energy.",user,student09,Utterances that index information,K+,1
+34,act_week5,338,['model_student09_34'],,['34'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student09,Replies that provide content-based information,Reply-knowledge,1
+35,act_week5,339,['model_student10_35'],,['35'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student10,Other acts that maintain discussion,Other,0
+35,act_week5,340,['model_student10_35'],,['35'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student10,Utterances that are hedges or requests,K-,0
+35,act_week5,341,['model_student10_35'],,['35'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student10,Other acts that maintain discussion,Other,0
+35,act_week5,342,,['user_student10_35'],['35'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student10,Utterances that index information,K+,0
+35,act_week5,343,,['user_student10_35'],['35'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student10,Utterances that are hedges or requests,K-,0
+35,act_week5,344,['model_student10_35'],,['35'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student10,Replies that provide content-based information,Reply-knowledge,0
+35,act_week5,345,['model_student10_35'],,['35'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student10,Utterances that are hedges or requests,K-,0
+35,act_week5,346,,['user_student10_35'],['35'],Reply,2024-01-01 00:07:00,"Okay, thanks.",user,student10,Basic and simple replies to questions,Reply,0
+35,act_week5,347,['model_student10_35'],,['35'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy. Your definition of work is correct.,model,student10,Replies that provide content-based information,Reply-knowledge,0
+35,act_week5,348,,['user_student10_35'],['35'],Reply,2024-01-01 00:09:00,"Okay, thanks.",user,student10,Basic and simple replies to questions,Reply,0
+36,act_week5,349,['model_student11_36'],,['36'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student11,Other acts that maintain discussion,Other,1
+36,act_week5,350,['model_student11_36'],,['36'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student11,Utterances that are hedges or requests,K-,1
+36,act_week5,351,['model_student11_36'],,['36'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student11,Other acts that maintain discussion,Other,1
+36,act_week5,352,,['user_student11_36'],['36'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student11,Utterances that index information,K+,1
+36,act_week5,353,,['user_student11_36'],['36'],Reply-knowledge,2024-01-01 00:04:00,An isothermal process keeps the temperature constant.,user,student11,Replies that provide content-based information,Reply-knowledge,1
+36,act_week5,354,['model_student11_36'],,['36'],Other,2024-01-01 00:05:00,"Very good, that's a good summary!",model,student11,Other acts that maintain discussion,Other,1
+37,act_week5,355,['model_student12_37'],,['37'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student12,Other acts that maintain discussion,Other,1
+37,act_week5,356,['model_student12_37'],,['37'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student12,Utterances that are hedges or requests,K-,1
+37,act_week5,357,['model_student12_37'],,['37'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student12,Other acts that maintain discussion,Other,1
+37,act_week5,358,,['user_student12_37'],['37'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student12,Utterances that index information,K+,1
+37,act_week5,359,['model_student12_37'],,['37'],Other,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student12,Other acts that maintain discussion,Other,1
+37,act_week5,360,['model_student12_37'],,['37'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student12,Utterances that are hedges or requests,K-,1
+37,act_week5,361,,['user_student12_37'],['37'],Reply-knowledge,2024-01-01 00:06:00,An isothermal process keeps the temperature constant.,user,student12,Replies that provide content-based information,Reply-knowledge,1
+37,act_week5,362,,['user_student12_37'],['37'],K+,2024-01-01 00:07:00,We saw the first law and the notion of internal energy.,user,student12,Utterances that index information,K+,1
+37,act_week5,363,['model_student12_37'],,['37'],Other,2024-01-01 00:08:00,"Very good, that's a good summary!",model,student12,Other acts that maintain discussion,Other,1
+37,act_week5,364,['model_student12_37'],,['37'],K-,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student12,Utterances that are hedges or requests,K-,1
+37,act_week5,365,,['user_student12_37'],['37'],K+,2024-01-01 00:10:00,We saw the first law and the notion of internal energy.,user,student12,Utterances that index information,K+,1
+37,act_week5,366,['model_student12_37'],,['37'],Other,2024-01-01 00:11:00,"Very good, that's a good summary! Feel free to share your thoughts!",model,student12,Other acts that maintain discussion,Other,1
+38,act_week5,367,['model_student13_38'],,['38'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student13,Other acts that maintain discussion,Other,0
+38,act_week5,368,['model_student13_38'],,['38'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student13,Utterances that are hedges or requests,K-,0
+38,act_week5,369,['model_student13_38'],,['38'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student13,Other acts that maintain discussion,Other,0
+38,act_week5,370,,['user_student13_38'],['38'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student13,Utterances that index information,K+,0
+38,act_week5,371,,['user_student13_38'],['38'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student13,Utterances that are hedges or requests,K-,0
+38,act_week5,372,['model_student13_38'],,['38'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student13,Replies that provide content-based information,Reply-knowledge,0
+38,act_week5,373,['model_student13_38'],,['38'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student13,Utterances that are hedges or requests,K-,0
+38,act_week5,374,,['user_student13_38'],['38'],Reply,2024-01-01 00:07:00,Yes.,user,student13,Basic and simple replies to questions,Reply,0
+38,act_week5,375,['model_student13_38'],,['38'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student13,Replies that provide content-based information,Reply-knowledge,0
+38,act_week5,376,['model_student13_38'],,['38'],Other,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student13,Other acts that maintain discussion,Other,0
+38,act_week5,377,,['user_student13_38'],['38'],Reply,2024-01-01 00:10:00,Yes.,user,student13,Basic and simple replies to questions,Reply,0
+39,act_week5,378,['model_student15_39'],,['39'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student15,Other acts that maintain discussion,Other,1
+39,act_week5,379,['model_student15_39'],,['39'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student15,Utterances that are hedges or requests,K-,1
+39,act_week5,380,['model_student15_39'],,['39'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student15,Other acts that maintain discussion,Other,1
+39,act_week5,381,,['user_student15_39'],['39'],K+,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student15,Utterances that index information,K+,1
+39,act_week5,382,['model_student15_39'],,['39'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,1
+39,act_week5,383,['model_student15_39'],,['39'],K-,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student15,Utterances that are hedges or requests,K-,1
+39,act_week5,384,,['user_student15_39'],['39'],K+,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student15,Utterances that index information,K+,1
+39,act_week5,385,['model_student15_39'],,['39'],Reply-knowledge,2024-01-01 00:07:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,1
+39,act_week5,386,['model_student15_39'],,['39'],K-,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student15,Utterances that are hedges or requests,K-,1
+39,act_week5,387,,['user_student15_39'],['39'],K+,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student15,Utterances that index information,K+,1
+39,act_week5,388,['model_student15_39'],,['39'],Reply-knowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student15,Replies that provide content-based information,Reply-knowledge,1
+39,act_week5,389,['model_student15_39'],,['39'],Other,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student15,Other acts that maintain discussion,Other,1
+40,act_week5,390,['model_student17_40'],,['40'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student17,Other acts that maintain discussion,Other,1
+40,act_week5,391,['model_student17_40'],,['40'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student17,Utterances that are hedges or requests,K-,1
+40,act_week5,392,['model_student17_40'],,['40'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student17,Other acts that maintain discussion,Other,1
+40,act_week5,393,,['user_student17_40'],['40'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student17,Replies that provide content-based information,Reply-knowledge,1
+40,act_week5,394,['model_student17_40'],,['40'],Reply-knowledge,2024-01-01 00:04:00,Your definition of work is correct.,model,student17,Replies that provide content-based information,Reply-knowledge,1
+41,act_week5,395,['model_student18_41'],,['41'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student18,Other acts that maintain discussion,Other,2
+41,act_week5,396,['model_student18_41'],,['41'],K-,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student18,Utterances that are hedges or requests,K-,2
+41,act_week5,397,['model_student18_41'],,['41'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student18,Other acts that maintain discussion,Other,2
+41,act_week5,398,,['user_student18_41'],['41'],Reply-knowledge,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student18,Replies that provide content-based information,Reply-knowledge,2
+41,act_week5,399,,['user_student18_41'],['41'],K+,2024-01-01 00:04:00,"Work depends on the path taken, unlike internal energy.",user,student18,Utterances that index information,K+,2
+41,act_week5,400,['model_student18_41'],,['41'],Reply-knowledge,2024-01-01 00:05:00,Your definition of work is correct.,model,student18,Replies that provide content-based information,Reply-knowledge,2
+42,act_week5,401,['model_student21_42'],,['42'],Other,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student21,Other acts that maintain discussion,Other,0
+42,act_week5,402,['model_student21_42'],,['42'],K-,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student21,Utterances that are hedges or requests,K-,0
+42,act_week5,403,['model_student21_42'],,['42'],Other,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student21,Other acts that maintain discussion,Other,0
+42,act_week5,404,,['user_student21_42'],['42'],K+,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student21,Utterances that index information,K+,0
+42,act_week5,405,,['user_student21_42'],['42'],K-,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student21,Utterances that are hedges or requests,K-,0
+42,act_week5,406,['model_student21_42'],,['42'],Reply-knowledge,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student21,Replies that provide content-based information,Reply-knowledge,0
+42,act_week5,407,['model_student21_42'],,['42'],K-,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student21,Utterances that are hedges or requests,K-,0
+42,act_week5,408,,['user_student21_42'],['42'],Reply,2024-01-01 00:07:00,Yes.,user,student21,Basic and simple replies to questions,Reply,0
+42,act_week5,409,['model_student21_42'],,['42'],Reply-knowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy. Your definition of work is correct.,model,student21,Replies that provide content-based information,Reply-knowledge,0
+42,act_week5,410,,['user_student21_42'],['42'],Reply,2024-01-01 00:09:00,Yes.,user,student21,Basic and simple replies to questions,Reply,0

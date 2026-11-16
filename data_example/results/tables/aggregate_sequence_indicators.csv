@@ -1,0 +1,4 @@
+coding_scheme,mean_n_states,median_n_states,mean_n_spells,median_n_spells,mean_complexity,median_complexity,mean_entropy,median_entropy
+lin_dialogue_acts,5.69,5.0,8.81,10.5,0.751,0.772,0.967,0.96
+acosta_epistemic_stance,4.714,5.0,8.762,10.0,0.788,0.776,0.942,0.96
+del_bosque_cma,5.357,5.0,8.786,10.5,0.771,0.772,0.963,0.961

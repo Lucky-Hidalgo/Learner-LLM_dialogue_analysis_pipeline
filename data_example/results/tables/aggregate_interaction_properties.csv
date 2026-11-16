@@ -1,0 +1,7 @@
+coding_scheme,measure,model_mean,model_median,user_mean,user_median
+lin_dialogue_acts,turns,7.143,8.0,2.667,3.0
+acosta_epistemic_stance,turns,6.81,7.5,2.952,3.0
+del_bosque_cma,turns,7.143,8.0,2.643,3.0
+lin_dialogue_acts,characters,339.738,378.5,169.0,179.0
+acosta_epistemic_stance,characters,340.071,379.0,168.714,179.0
+del_bosque_cma,characters,339.738,378.5,169.024,179.5

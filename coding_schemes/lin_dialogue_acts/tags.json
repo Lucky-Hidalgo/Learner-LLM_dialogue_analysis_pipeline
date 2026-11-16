@@ -1,0 +1,57 @@
+{
+    "Hint": [
+      "Information",
+      "Hint by Image",
+      "Observation"
+    ],
+    "Directive": [
+      "Directive"
+    ],
+    "Acknowledge": [
+      "Acknowledge"
+    ],
+    "Request Confirmation": [
+      "Evaluation Question"
+    ],
+    "Request Feedback": [
+      "Request Feedback by Image",
+      "Confirmation Question"
+    ],
+    "Positive Feedback": [
+      "General Positive Feedback",
+      "Elaborated Positive Feedback"
+    ],
+    "Negative Feedback": [
+      "Negative Feedback"
+    ],
+    "Lukewarm Feedback": [
+      "Lukewarm Feedback"
+    ],
+    "Correction": [
+      "Correction"
+    ],
+    "Question": [
+      "Direction Question",
+      "Information Question",
+      "Probing Question",
+      "Open Question",
+      "Factual Question",
+      "Operational Question",
+      "Ready Question",
+      "Extra Domain Question"
+    ],
+    "Answer": [
+      "Yes-No Answer",
+      "WH Answer",
+      "Ready Answer",
+      "Extra Domain Answer"
+    ],
+    "Statement": [
+      "Explanation",
+      "Greeting",
+      "Extra Domain Other",
+      "Reassurance",
+      "Understanding",
+      "Not Understanding"
+    ]
+  }

@@ -1,0 +1,55 @@
+You are an expert annotator of utterances.
+Please split each sentence in the conversation utterances and **classify them** according to the given annotation guidelines. The guidelines:
+
+- **Tutor Question Response**
+    -**Example:**
+    ```
+    S: "and these two lists are totally separate?"
+    T: "yeah, these are totally separate."
+    ```
+
+- **Tutor Elicit Response**
+    -**Example:** "it’s stored +// it stores information, okay?"
+
+- **Tutor Diagnosing Base**
+    -**Example:** "are you familiar with Legos?"
+
+- **Tutor Floor Initiating or Floor Mantaining**
+    -**Example:** "um what the stack is # is a way to hold objects such as uh integers or numbers, letters, words."
+
+- **Acknowledge Backchannel**
+    -**Example:**
+    ```
+    S: "Right."
+    T: "Right?"
+    ```
+
+- **Student Backchannel**
+    -**Example:** "okay"
+
+- **Backchannel through Repetition**
+    -**Example:**
+    ```
+    S: ". . . the head is for the next line."
+    T: "line ok."
+    ```
+
+- **Student Compound Contribution**
+    -**Example:** 
+    ```
+    T: "but we need, we can’t just say, Bob, point to Greg." 
+    S: "we need to know."
+    ```
+
+- **Student Question**
+    -**Example:**
+    ```
+    T: "Good, remember that formula” 
+    S: "how does the lightbulb’s resistance figure in the equations?"
+    ```
+
+- **Exclamation**
+    -**Example:** "ah"
+
+Please split each sentence and classify them accordingly. the input is in json, and the response should be STRICTLY in json format. 
+The label should be in a field called **annotation** and it should be present for every utterance.

@@ -1,0 +1,413 @@
+case_id,activity_id,ocel:eid,ocel:type:model,ocel:type:user,ocel:type:conversation,ocel:activity,ocel:timestamp,sentence_en,role,user_id,label,type
+1,act_week2,1,['model_student01_1'],,['1'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student01,Greeting,Statement
+1,act_week2,2,['model_student01_1'],,['1'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student01,Open Question,Question
+1,act_week2,3,['model_student01_1'],,['1'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student01,Directive,Directive
+1,act_week2,4,,['user_student01_1'],['1'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student01,Observation,Hint
+1,act_week2,5,['model_student01_1'],,['1'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student01,Elaborated Positive Feedback,Positive Feedback
+1,act_week2,6,['model_student01_1'],,['1'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student01,Probing Question,Question
+1,act_week2,7,,['user_student01_1'],['1'],Hint,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student01,Information,Hint
+1,act_week2,8,['model_student01_1'],,['1'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student01,General Positive Feedback,Positive Feedback
+1,act_week2,9,['model_student01_1'],,['1'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student01,Probing Question,Question
+1,act_week2,10,,['user_student01_1'],['1'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student01,Information,Hint
+1,act_week2,11,['model_student01_1'],,['1'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student01,Elaborated Positive Feedback,Positive Feedback
+1,act_week2,12,['model_student01_1'],,['1'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student01,Directive,Directive
+2,act_week2,13,['model_student03_2'],,['2'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student03,Greeting,Statement
+2,act_week2,14,['model_student03_2'],,['2'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student03,Open Question,Question
+2,act_week2,15,['model_student03_2'],,['2'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student03,Directive,Directive
+2,act_week2,16,,['user_student03_2'],['2'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy. An isothermal process keeps the temperature constant.",user,student03,Information,Hint
+2,act_week2,17,['model_student03_2'],,['2'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student03,General Positive Feedback,Positive Feedback
+3,act_week2,18,['model_student04_3'],,['3'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student04,Greeting,Statement
+3,act_week2,19,['model_student04_3'],,['3'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student04,Open Question,Question
+3,act_week2,20,['model_student04_3'],,['3'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student04,Directive,Directive
+3,act_week2,21,,['user_student04_3'],['3'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student04,Information,Hint
+3,act_week2,22,['model_student04_3'],,['3'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student04,General Positive Feedback,Positive Feedback
+3,act_week2,23,['model_student04_3'],,['3'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student04,Probing Question,Question
+3,act_week2,24,,['user_student04_3'],['3'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student04,Information,Hint
+3,act_week2,25,['model_student04_3'],,['3'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student04,Elaborated Positive Feedback,Positive Feedback
+3,act_week2,26,['model_student04_3'],,['3'],Acknowledge,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student04,Acknowledge,Acknowledge
+3,act_week2,27,,['user_student04_3'],['3'],Hint,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student04,Information,Hint
+3,act_week2,28,['model_student04_3'],,['3'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student04,Elaborated Positive Feedback,Positive Feedback
+3,act_week2,29,['model_student04_3'],,['3'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student04,Directive,Directive
+4,act_week2,30,['model_student05_4'],,['4'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student05,Greeting,Statement
+4,act_week2,31,['model_student05_4'],,['4'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student05,Open Question,Question
+4,act_week2,32,['model_student05_4'],,['4'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student05,Directive,Directive
+4,act_week2,33,,['user_student05_4'],['4'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student05,Observation,Hint
+4,act_week2,34,['model_student05_4'],,['4'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student05,General Positive Feedback,Positive Feedback
+4,act_week2,35,['model_student05_4'],,['4'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student05,Probing Question,Question
+4,act_week2,36,,['user_student05_4'],['4'],Hint,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. An isothermal process keeps the temperature constant.,user,student05,Information,Hint
+4,act_week2,37,['model_student05_4'],,['4'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student05,General Positive Feedback,Positive Feedback
+4,act_week2,38,['model_student05_4'],,['4'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student05,Probing Question,Question
+4,act_week2,39,,['user_student05_4'],['4'],Hint,2024-01-01 00:09:00,An isothermal process keeps the temperature constant.,user,student05,Observation,Hint
+4,act_week2,40,['model_student05_4'],,['4'],Acknowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student05,Acknowledge,Acknowledge
+4,act_week2,41,['model_student05_4'],,['4'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student05,Directive,Directive
+5,act_week2,42,['model_student08_5'],,['5'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student08,Greeting,Statement
+5,act_week2,43,['model_student08_5'],,['5'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student08,Open Question,Question
+5,act_week2,44,['model_student08_5'],,['5'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student08,Directive,Directive
+5,act_week2,45,,['user_student08_5'],['5'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student08,Observation,Hint
+5,act_week2,46,['model_student08_5'],,['5'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student08,Elaborated Positive Feedback,Positive Feedback
+5,act_week2,47,['model_student08_5'],,['5'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student08,Probing Question,Question
+5,act_week2,48,,['user_student08_5'],['5'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student08,Information,Hint
+5,act_week2,49,['model_student08_5'],,['5'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student08,Elaborated Positive Feedback,Positive Feedback
+5,act_week2,50,['model_student08_5'],,['5'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student08,Probing Question,Question
+5,act_week2,51,,['user_student08_5'],['5'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student08,Information,Hint
+5,act_week2,52,['model_student08_5'],,['5'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student08,General Positive Feedback,Positive Feedback
+5,act_week2,53,['model_student08_5'],,['5'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student08,Directive,Directive
+6,act_week2,54,['model_student12_6'],,['6'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student12,Greeting,Statement
+6,act_week2,55,['model_student12_6'],,['6'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student12,Open Question,Question
+6,act_week2,56,['model_student12_6'],,['6'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student12,Directive,Directive
+6,act_week2,57,,['user_student12_6'],['6'],Acknowledge,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student12,Acknowledge,Acknowledge
+6,act_week2,58,['model_student12_6'],,['6'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student12,General Positive Feedback,Positive Feedback
+6,act_week2,59,['model_student12_6'],,['6'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student12,Probing Question,Question
+6,act_week2,60,,['user_student12_6'],['6'],Hint,2024-01-01 00:06:00,"We saw the first law and the notion of internal energy. Work depends on the path taken, unlike internal energy.",user,student12,Information,Hint
+6,act_week2,61,['model_student12_6'],,['6'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student12,Elaborated Positive Feedback,Positive Feedback
+6,act_week2,62,['model_student12_6'],,['6'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student12,Probing Question,Question
+6,act_week2,63,,['user_student12_6'],['6'],Hint,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student12,Information,Hint
+6,act_week2,64,['model_student12_6'],,['6'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student12,General Positive Feedback,Positive Feedback
+6,act_week2,65,['model_student12_6'],,['6'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student12,Directive,Directive
+7,act_week2,66,['model_student13_7'],,['7'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student13,Greeting,Statement
+7,act_week2,67,['model_student13_7'],,['7'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student13,Open Question,Question
+7,act_week2,68,['model_student13_7'],,['7'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student13,Directive,Directive
+7,act_week2,69,,['user_student13_7'],['7'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student13,Information,Hint
+7,act_week2,70,['model_student13_7'],,['7'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student13,Elaborated Positive Feedback,Positive Feedback
+7,act_week2,71,['model_student13_7'],,['7'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student13,Probing Question,Question
+7,act_week2,72,,['user_student13_7'],['7'],Hint,2024-01-01 00:06:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student13,Observation,Hint
+7,act_week2,73,['model_student13_7'],,['7'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student13,Elaborated Positive Feedback,Positive Feedback
+7,act_week2,74,['model_student13_7'],,['7'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student13,Probing Question,Question
+7,act_week2,75,,['user_student13_7'],['7'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student13,Information,Hint
+7,act_week2,76,['model_student13_7'],,['7'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student13,Elaborated Positive Feedback,Positive Feedback
+7,act_week2,77,['model_student13_7'],,['7'],Acknowledge,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student13,Acknowledge,Acknowledge
+8,act_week2,78,['model_student15_8'],,['8'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student15,Greeting,Statement
+8,act_week2,79,['model_student15_8'],,['8'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student15,Open Question,Question
+8,act_week2,80,['model_student15_8'],,['8'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student15,Directive,Directive
+8,act_week2,81,,['user_student15_8'],['8'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student15,Observation,Hint
+8,act_week2,82,['model_student15_8'],,['8'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+8,act_week2,83,['model_student15_8'],,['8'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student15,Probing Question,Question
+8,act_week2,84,,['user_student15_8'],['8'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student15,Information,Hint
+8,act_week2,85,['model_student15_8'],,['8'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+8,act_week2,86,['model_student15_8'],,['8'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student15,Probing Question,Question
+8,act_week2,87,,['user_student15_8'],['8'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student15,Information,Hint
+8,act_week2,88,['model_student15_8'],,['8'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student15,General Positive Feedback,Positive Feedback
+8,act_week2,89,['model_student15_8'],,['8'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student15,Directive,Directive
+9,act_week2,90,['model_student16_9'],,['9'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student16,Greeting,Statement
+9,act_week2,91,['model_student16_9'],,['9'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student16,Open Question,Question
+9,act_week2,92,['model_student16_9'],,['9'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student16,Directive,Directive
+9,act_week2,93,,['user_student16_9'],['9'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student16,Information,Hint
+9,act_week2,94,,['user_student16_9'],['9'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student16,Information Question,Question
+9,act_week2,95,['model_student16_9'],,['9'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student16,Explanation,Statement
+9,act_week2,96,['model_student16_9'],,['9'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student16,Probing Question,Question
+9,act_week2,97,,['user_student16_9'],['9'],Acknowledge,2024-01-01 00:07:00,"Okay, thanks.",user,student16,Acknowledge,Acknowledge
+9,act_week2,98,['model_student16_9'],,['9'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student16,Explanation,Statement
+9,act_week2,99,['model_student16_9'],,['9'],Positive Feedback,2024-01-01 00:09:00,Your definition of work is correct.,model,student16,Elaborated Positive Feedback,Positive Feedback
+9,act_week2,100,,['user_student16_9'],['9'],Acknowledge,2024-01-01 00:10:00,"Okay, thanks.",user,student16,Acknowledge,Acknowledge
+10,act_week2,101,['model_student17_10'],,['10'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student17,Greeting,Statement
+10,act_week2,102,['model_student17_10'],,['10'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student17,Open Question,Question
+10,act_week2,103,['model_student17_10'],,['10'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student17,Directive,Directive
+10,act_week2,104,,['user_student17_10'],['10'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student17,Information,Hint
+10,act_week2,105,,['user_student17_10'],['10'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student17,Information Question,Question
+10,act_week2,106,['model_student17_10'],,['10'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student17,Explanation,Statement
+10,act_week2,107,['model_student17_10'],,['10'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student17,Probing Question,Question
+10,act_week2,108,,['user_student17_10'],['10'],Answer,2024-01-01 00:07:00,Yes.,user,student17,Yes-No Answer,Answer
+10,act_week2,109,['model_student17_10'],,['10'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student17,Explanation,Statement
+10,act_week2,110,['model_student17_10'],,['10'],Positive Feedback,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student17,General Positive Feedback,Positive Feedback
+10,act_week2,111,,['user_student17_10'],['10'],Answer,2024-01-01 00:10:00,Yes.,user,student17,Yes-No Answer,Answer
+11,act_week2,112,['model_student18_11'],,['11'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student18,Greeting,Statement
+11,act_week2,113,['model_student18_11'],,['11'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student18,Open Question,Question
+11,act_week2,114,['model_student18_11'],,['11'],Acknowledge,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student18,Acknowledge,Acknowledge
+11,act_week2,115,,['user_student18_11'],['11'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student18,Information,Hint
+11,act_week2,116,['model_student18_11'],,['11'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student18,General Positive Feedback,Positive Feedback
+11,act_week2,117,['model_student18_11'],,['11'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student18,Probing Question,Question
+11,act_week2,118,,['user_student18_11'],['11'],Hint,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student18,Information,Hint
+11,act_week2,119,['model_student18_11'],,['11'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student18,General Positive Feedback,Positive Feedback
+11,act_week2,120,['model_student18_11'],,['11'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student18,Probing Question,Question
+11,act_week2,121,,['user_student18_11'],['11'],Hint,2024-01-01 00:09:00,An isothermal process keeps the temperature constant.,user,student18,Observation,Hint
+11,act_week2,122,['model_student18_11'],,['11'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student18,General Positive Feedback,Positive Feedback
+11,act_week2,123,['model_student18_11'],,['11'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student18,Directive,Directive
+12,act_week2,124,['model_student19_12'],,['12'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student19,Greeting,Statement
+12,act_week2,125,['model_student19_12'],,['12'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student19,Open Question,Question
+12,act_week2,126,['model_student19_12'],,['12'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student19,Directive,Directive
+12,act_week2,127,,['user_student19_12'],['12'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student19,Observation,Hint
+12,act_week2,128,['model_student19_12'],,['12'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student19,General Positive Feedback,Positive Feedback
+12,act_week2,129,['model_student19_12'],,['12'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student19,Probing Question,Question
+12,act_week2,130,,['user_student19_12'],['12'],Hint,2024-01-01 00:06:00,"We saw the first law and the notion of internal energy. Work depends on the path taken, unlike internal energy.",user,student19,Information,Hint
+12,act_week2,131,['model_student19_12'],,['12'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student19,Elaborated Positive Feedback,Positive Feedback
+12,act_week2,132,['model_student19_12'],,['12'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student19,Probing Question,Question
+12,act_week2,133,,['user_student19_12'],['12'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student19,Information,Hint
+12,act_week2,134,['model_student19_12'],,['12'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student19,Elaborated Positive Feedback,Positive Feedback
+12,act_week2,135,['model_student19_12'],,['12'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student19,Directive,Directive
+13,act_week2,136,['model_student21_13'],,['13'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student21,Greeting,Statement
+13,act_week2,137,['model_student21_13'],,['13'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student21,Open Question,Question
+13,act_week2,138,['model_student21_13'],,['13'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student21,Directive,Directive
+13,act_week2,139,,['user_student21_13'],['13'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student21,Observation,Hint
+13,act_week2,140,,['user_student21_13'],['13'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student21,Information Question,Question
+13,act_week2,141,['model_student21_13'],,['13'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student21,Explanation,Statement
+13,act_week2,142,['model_student21_13'],,['13'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student21,Probing Question,Question
+13,act_week2,143,,['user_student21_13'],['13'],Answer,2024-01-01 00:07:00,Yes.,user,student21,Yes-No Answer,Answer
+13,act_week2,144,['model_student21_13'],,['13'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student21,Explanation,Statement
+13,act_week2,145,['model_student21_13'],,['13'],Positive Feedback,2024-01-01 00:09:00,Your definition of work is correct.,model,student21,Elaborated Positive Feedback,Positive Feedback
+13,act_week2,146,,['user_student21_13'],['13'],Acknowledge,2024-01-01 00:10:00,"Okay, thanks.",user,student21,Acknowledge,Acknowledge
+14,act_week4,147,['model_student01_14'],,['14'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student01,Greeting,Statement
+14,act_week4,148,['model_student01_14'],,['14'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student01,Open Question,Question
+14,act_week4,149,['model_student01_14'],,['14'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student01,Directive,Directive
+14,act_week4,150,,['user_student01_14'],['14'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student01,Information,Hint
+14,act_week4,151,['model_student01_14'],,['14'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student01,General Positive Feedback,Positive Feedback
+15,act_week4,152,['model_student02_15'],,['15'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student02,Greeting,Statement
+15,act_week4,153,['model_student02_15'],,['15'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student02,Open Question,Question
+15,act_week4,154,['model_student02_15'],,['15'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student02,Directive,Directive
+15,act_week4,155,,['user_student02_15'],['15'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student02,Information,Hint
+15,act_week4,156,['model_student02_15'],,['15'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student02,General Positive Feedback,Positive Feedback
+15,act_week4,157,['model_student02_15'],,['15'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student02,Probing Question,Question
+15,act_week4,158,,['user_student02_15'],['15'],Hint,2024-01-01 00:06:00,"An isothermal process keeps the temperature constant. Work depends on the path taken, unlike internal energy.",user,student02,Observation,Hint
+15,act_week4,159,['model_student02_15'],,['15'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student02,General Positive Feedback,Positive Feedback
+15,act_week4,160,['model_student02_15'],,['15'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student02,Probing Question,Question
+15,act_week4,161,,['user_student02_15'],['15'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student02,Information,Hint
+15,act_week4,162,['model_student02_15'],,['15'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student02,Elaborated Positive Feedback,Positive Feedback
+15,act_week4,163,['model_student02_15'],,['15'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student02,Directive,Directive
+16,act_week4,164,['model_student03_16'],,['16'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student03,Greeting,Statement
+16,act_week4,165,['model_student03_16'],,['16'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student03,Open Question,Question
+16,act_week4,166,['model_student03_16'],,['16'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student03,Directive,Directive
+16,act_week4,167,,['user_student03_16'],['16'],Hint,2024-01-01 00:03:00,"An isothermal process keeps the temperature constant. Work depends on the path taken, unlike internal energy.",user,student03,Observation,Hint
+16,act_week4,168,['model_student03_16'],,['16'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student03,General Positive Feedback,Positive Feedback
+17,act_week4,169,['model_student04_17'],,['17'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student04,Greeting,Statement
+17,act_week4,170,['model_student04_17'],,['17'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student04,Open Question,Question
+17,act_week4,171,['model_student04_17'],,['17'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student04,Directive,Directive
+17,act_week4,172,,['user_student04_17'],['17'],Hint,2024-01-01 00:03:00,"An isothermal process keeps the temperature constant. Work depends on the path taken, unlike internal energy.",user,student04,Observation,Hint
+17,act_week4,173,['model_student04_17'],,['17'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student04,Elaborated Positive Feedback,Positive Feedback
+18,act_week4,174,['model_student06_18'],,['18'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student06,Greeting,Statement
+18,act_week4,175,['model_student06_18'],,['18'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student06,Open Question,Question
+18,act_week4,176,['model_student06_18'],,['18'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student06,Directive,Directive
+18,act_week4,177,,['user_student06_18'],['18'],Hint,2024-01-01 00:03:00,"An isothermal process keeps the temperature constant. Work depends on the path taken, unlike internal energy.",user,student06,Observation,Hint
+18,act_week4,178,['model_student06_18'],,['18'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student06,General Positive Feedback,Positive Feedback
+19,act_week4,179,['model_student07_19'],,['19'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student07,Greeting,Statement
+19,act_week4,180,['model_student07_19'],,['19'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student07,Open Question,Question
+19,act_week4,181,['model_student07_19'],,['19'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student07,Directive,Directive
+19,act_week4,182,,['user_student07_19'],['19'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student07,Information,Hint
+19,act_week4,183,,['user_student07_19'],['19'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student07,Information Question,Question
+19,act_week4,184,['model_student07_19'],,['19'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student07,Explanation,Statement
+19,act_week4,185,['model_student07_19'],,['19'],Acknowledge,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student07,Acknowledge,Acknowledge
+19,act_week4,186,,['user_student07_19'],['19'],Answer,2024-01-01 00:07:00,Yes.,user,student07,Yes-No Answer,Answer
+19,act_week4,187,['model_student07_19'],,['19'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student07,Explanation,Statement
+19,act_week4,188,['model_student07_19'],,['19'],Positive Feedback,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student07,General Positive Feedback,Positive Feedback
+19,act_week4,189,,['user_student07_19'],['19'],Answer,2024-01-01 00:10:00,Yes.,user,student07,Yes-No Answer,Answer
+20,act_week4,190,['model_student08_20'],,['20'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student08,Greeting,Statement
+20,act_week4,191,['model_student08_20'],,['20'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student08,Open Question,Question
+20,act_week4,192,['model_student08_20'],,['20'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student08,Directive,Directive
+20,act_week4,193,,['user_student08_20'],['20'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student08,Observation,Hint
+20,act_week4,194,['model_student08_20'],,['20'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student08,Elaborated Positive Feedback,Positive Feedback
+20,act_week4,195,['model_student08_20'],,['20'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student08,Probing Question,Question
+20,act_week4,196,,['user_student08_20'],['20'],Hint,2024-01-01 00:06:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student08,Observation,Hint
+20,act_week4,197,['model_student08_20'],,['20'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student08,General Positive Feedback,Positive Feedback
+20,act_week4,198,['model_student08_20'],,['20'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student08,Probing Question,Question
+20,act_week4,199,,['user_student08_20'],['20'],Hint,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student08,Information,Hint
+20,act_week4,200,['model_student08_20'],,['20'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student08,Elaborated Positive Feedback,Positive Feedback
+20,act_week4,201,['model_student08_20'],,['20'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student08,Directive,Directive
+21,act_week4,202,['model_student10_21'],,['21'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student10,Greeting,Statement
+21,act_week4,203,['model_student10_21'],,['21'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student10,Open Question,Question
+21,act_week4,204,['model_student10_21'],,['21'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student10,Directive,Directive
+21,act_week4,205,,['user_student10_21'],['21'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student10,Information,Hint
+21,act_week4,206,['model_student10_21'],,['21'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student10,Elaborated Positive Feedback,Positive Feedback
+21,act_week4,207,['model_student10_21'],,['21'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student10,Probing Question,Question
+21,act_week4,208,,['user_student10_21'],['21'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. An isothermal process keeps the temperature constant.",user,student10,Information,Hint
+21,act_week4,209,['model_student10_21'],,['21'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student10,Elaborated Positive Feedback,Positive Feedback
+21,act_week4,210,['model_student10_21'],,['21'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student10,Probing Question,Question
+21,act_week4,211,,['user_student10_21'],['21'],Hint,2024-01-01 00:09:00,An isothermal process keeps the temperature constant.,user,student10,Observation,Hint
+21,act_week4,212,['model_student10_21'],,['21'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student10,General Positive Feedback,Positive Feedback
+21,act_week4,213,['model_student10_21'],,['21'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student10,Directive,Directive
+22,act_week4,214,['model_student11_22'],,['22'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student11,Greeting,Statement
+22,act_week4,215,['model_student11_22'],,['22'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student11,Open Question,Question
+22,act_week4,216,['model_student11_22'],,['22'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student11,Directive,Directive
+22,act_week4,217,,['user_student11_22'],['22'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student11,Information,Hint
+22,act_week4,218,,['user_student11_22'],['22'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student11,Information Question,Question
+22,act_week4,219,['model_student11_22'],,['22'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student11,Explanation,Statement
+22,act_week4,220,['model_student11_22'],,['22'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student11,Probing Question,Question
+22,act_week4,221,,['user_student11_22'],['22'],Acknowledge,2024-01-01 00:07:00,"Okay, thanks.",user,student11,Acknowledge,Acknowledge
+22,act_week4,222,['model_student11_22'],,['22'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student11,Explanation,Statement
+22,act_week4,223,['model_student11_22'],,['22'],Positive Feedback,2024-01-01 00:09:00,Your definition of work is correct.,model,student11,Elaborated Positive Feedback,Positive Feedback
+22,act_week4,224,,['user_student11_22'],['22'],Acknowledge,2024-01-01 00:10:00,"Okay, thanks.",user,student11,Acknowledge,Acknowledge
+23,act_week4,225,['model_student13_23'],,['23'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student13,Greeting,Statement
+23,act_week4,226,['model_student13_23'],,['23'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student13,Open Question,Question
+23,act_week4,227,['model_student13_23'],,['23'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student13,Directive,Directive
+23,act_week4,228,,['user_student13_23'],['23'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student13,Information,Hint
+23,act_week4,229,['model_student13_23'],,['23'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student13,General Positive Feedback,Positive Feedback
+24,act_week4,230,['model_student14_24'],,['24'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student14,Greeting,Statement
+24,act_week4,231,['model_student14_24'],,['24'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student14,Open Question,Question
+24,act_week4,232,['model_student14_24'],,['24'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student14,Directive,Directive
+24,act_week4,233,,['user_student14_24'],['24'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student14,Information,Hint
+24,act_week4,234,['model_student14_24'],,['24'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student14,General Positive Feedback,Positive Feedback
+24,act_week4,235,['model_student14_24'],,['24'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student14,Probing Question,Question
+24,act_week4,236,,['user_student14_24'],['24'],Hint,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. An isothermal process keeps the temperature constant.,user,student14,Information,Hint
+24,act_week4,237,['model_student14_24'],,['24'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student14,General Positive Feedback,Positive Feedback
+24,act_week4,238,['model_student14_24'],,['24'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student14,Probing Question,Question
+24,act_week4,239,,['user_student14_24'],['24'],Hint,2024-01-01 00:09:00,"Work depends on the path taken, unlike internal energy.",user,student14,Information,Hint
+24,act_week4,240,['model_student14_24'],,['24'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student14,General Positive Feedback,Positive Feedback
+24,act_week4,241,['model_student14_24'],,['24'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student14,Directive,Directive
+25,act_week4,242,['model_student15_25'],,['25'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student15,Greeting,Statement
+25,act_week4,243,['model_student15_25'],,['25'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student15,Open Question,Question
+25,act_week4,244,['model_student15_25'],,['25'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student15,Directive,Directive
+25,act_week4,245,,['user_student15_25'],['25'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student15,Observation,Hint
+25,act_week4,246,['model_student15_25'],,['25'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+25,act_week4,247,['model_student15_25'],,['25'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student15,Probing Question,Question
+25,act_week4,248,,['user_student15_25'],['25'],Hint,2024-01-01 00:06:00,An isothermal process keeps the temperature constant.,user,student15,Observation,Hint
+25,act_week4,249,,['user_student15_25'],['25'],Acknowledge,2024-01-01 00:07:00,An isothermal process keeps the temperature constant.,user,student15,Acknowledge,Acknowledge
+25,act_week4,250,['model_student15_25'],,['25'],Positive Feedback,2024-01-01 00:08:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+25,act_week4,251,['model_student15_25'],,['25'],Question,2024-01-01 00:09:00,How does the first law apply to a cycle?,model,student15,Probing Question,Question
+25,act_week4,252,,['user_student15_25'],['25'],Hint,2024-01-01 00:10:00,"Work depends on the path taken, unlike internal energy.",user,student15,Information,Hint
+25,act_week4,253,['model_student15_25'],,['25'],Positive Feedback,2024-01-01 00:11:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+25,act_week4,254,['model_student15_25'],,['25'],Directive,2024-01-01 00:12:00,Feel free to share your thoughts!,model,student15,Directive,Directive
+26,act_week4,255,['model_student16_26'],,['26'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student16,Greeting,Statement
+26,act_week4,256,['model_student16_26'],,['26'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student16,Open Question,Question
+26,act_week4,257,['model_student16_26'],,['26'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student16,Directive,Directive
+26,act_week4,258,,['user_student16_26'],['26'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student16,Observation,Hint
+26,act_week4,259,,['user_student16_26'],['26'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student16,Information Question,Question
+26,act_week4,260,['model_student16_26'],,['26'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student16,Explanation,Statement
+26,act_week4,261,['model_student16_26'],,['26'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student16,Probing Question,Question
+26,act_week4,262,,['user_student16_26'],['26'],Answer,2024-01-01 00:07:00,Yes.,user,student16,Yes-No Answer,Answer
+26,act_week4,263,['model_student16_26'],,['26'],Acknowledge,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student16,Acknowledge,Acknowledge
+26,act_week4,264,['model_student16_26'],,['26'],Positive Feedback,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student16,General Positive Feedback,Positive Feedback
+26,act_week4,265,,['user_student16_26'],['26'],Acknowledge,2024-01-01 00:10:00,"Okay, thanks.",user,student16,Acknowledge,Acknowledge
+27,act_week4,266,['model_student17_27'],,['27'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student17,Greeting,Statement
+27,act_week4,267,['model_student17_27'],,['27'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student17,Open Question,Question
+27,act_week4,268,['model_student17_27'],,['27'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student17,Directive,Directive
+27,act_week4,269,,['user_student17_27'],['27'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student17,Observation,Hint
+27,act_week4,270,['model_student17_27'],,['27'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student17,General Positive Feedback,Positive Feedback
+28,act_week4,271,['model_student18_28'],,['28'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student18,Greeting,Statement
+28,act_week4,272,['model_student18_28'],,['28'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student18,Open Question,Question
+28,act_week4,273,['model_student18_28'],,['28'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student18,Directive,Directive
+28,act_week4,274,,['user_student18_28'],['28'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student18,Observation,Hint
+28,act_week4,275,['model_student18_28'],,['28'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student18,General Positive Feedback,Positive Feedback
+28,act_week4,276,['model_student18_28'],,['28'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student18,Probing Question,Question
+28,act_week4,277,,['user_student18_28'],['28'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. An isothermal process keeps the temperature constant.",user,student18,Information,Hint
+28,act_week4,278,['model_student18_28'],,['28'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student18,Elaborated Positive Feedback,Positive Feedback
+28,act_week4,279,['model_student18_28'],,['28'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student18,Probing Question,Question
+28,act_week4,280,,['user_student18_28'],['28'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student18,Information,Hint
+28,act_week4,281,['model_student18_28'],,['28'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student18,General Positive Feedback,Positive Feedback
+28,act_week4,282,['model_student18_28'],,['28'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student18,Directive,Directive
+29,act_week4,283,['model_student19_29'],,['29'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student19,Greeting,Statement
+29,act_week4,284,['model_student19_29'],,['29'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student19,Open Question,Question
+29,act_week4,285,['model_student19_29'],,['29'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student19,Directive,Directive
+29,act_week4,286,,['user_student19_29'],['29'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student19,Information,Hint
+29,act_week4,287,['model_student19_29'],,['29'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student19,General Positive Feedback,Positive Feedback
+29,act_week4,288,['model_student19_29'],,['29'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student19,Probing Question,Question
+29,act_week4,289,,['user_student19_29'],['29'],Hint,2024-01-01 00:06:00,We saw the first law and the notion of internal energy. We saw the first law and the notion of internal energy.,user,student19,Information,Hint
+29,act_week4,290,['model_student19_29'],,['29'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student19,Elaborated Positive Feedback,Positive Feedback
+29,act_week4,291,['model_student19_29'],,['29'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student19,Probing Question,Question
+29,act_week4,292,,['user_student19_29'],['29'],Hint,2024-01-01 00:09:00,An isothermal process keeps the temperature constant.,user,student19,Observation,Hint
+29,act_week4,293,['model_student19_29'],,['29'],Acknowledge,2024-01-01 00:10:00,Your definition of work is correct.,model,student19,Acknowledge,Acknowledge
+29,act_week4,294,['model_student19_29'],,['29'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student19,Directive,Directive
+30,act_week4,295,['model_student21_30'],,['30'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student21,Greeting,Statement
+30,act_week4,296,['model_student21_30'],,['30'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student21,Open Question,Question
+30,act_week4,297,['model_student21_30'],,['30'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student21,Directive,Directive
+30,act_week4,298,,['user_student21_30'],['30'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student21,Information,Hint
+30,act_week4,299,['model_student21_30'],,['30'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student21,General Positive Feedback,Positive Feedback
+30,act_week4,300,['model_student21_30'],,['30'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student21,Probing Question,Question
+30,act_week4,301,,['user_student21_30'],['30'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student21,Information,Hint
+30,act_week4,302,['model_student21_30'],,['30'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student21,General Positive Feedback,Positive Feedback
+30,act_week4,303,['model_student21_30'],,['30'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student21,Probing Question,Question
+30,act_week4,304,,['user_student21_30'],['30'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student21,Information,Hint
+30,act_week4,305,['model_student21_30'],,['30'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student21,Elaborated Positive Feedback,Positive Feedback
+30,act_week4,306,['model_student21_30'],,['30'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student21,Directive,Directive
+31,act_week5,307,['model_student02_31'],,['31'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student02,Greeting,Statement
+31,act_week5,308,['model_student02_31'],,['31'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student02,Open Question,Question
+31,act_week5,309,['model_student02_31'],,['31'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student02,Directive,Directive
+31,act_week5,310,,['user_student02_31'],['31'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student02,Observation,Hint
+31,act_week5,311,['model_student02_31'],,['31'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student02,Elaborated Positive Feedback,Positive Feedback
+32,act_week5,312,['model_student04_32'],,['32'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student04,Greeting,Statement
+32,act_week5,313,['model_student04_32'],,['32'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student04,Open Question,Question
+32,act_week5,314,['model_student04_32'],,['32'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student04,Directive,Directive
+32,act_week5,315,,['user_student04_32'],['32'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant.,user,student04,Observation,Hint
+32,act_week5,316,['model_student04_32'],,['32'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student04,Elaborated Positive Feedback,Positive Feedback
+32,act_week5,317,['model_student04_32'],,['32'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student04,Probing Question,Question
+32,act_week5,318,,['user_student04_32'],['32'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. An isothermal process keeps the temperature constant.",user,student04,Information,Hint
+32,act_week5,319,['model_student04_32'],,['32'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student04,Elaborated Positive Feedback,Positive Feedback
+32,act_week5,320,['model_student04_32'],,['32'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student04,Probing Question,Question
+32,act_week5,321,,['user_student04_32'],['32'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student04,Information,Hint
+32,act_week5,322,['model_student04_32'],,['32'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student04,General Positive Feedback,Positive Feedback
+32,act_week5,323,['model_student04_32'],,['32'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student04,Directive,Directive
+33,act_week5,324,['model_student07_33'],,['33'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student07,Greeting,Statement
+33,act_week5,325,['model_student07_33'],,['33'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? Which points still seem unclear to you?,model,student07,Open Question,Question
+33,act_week5,326,['model_student07_33'],,['33'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student07,Directive,Directive
+33,act_week5,327,,['user_student07_33'],['33'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student07,Information,Hint
+33,act_week5,328,['model_student07_33'],,['33'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student07,Elaborated Positive Feedback,Positive Feedback
+33,act_week5,329,['model_student07_33'],,['33'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student07,Probing Question,Question
+33,act_week5,330,,['user_student07_33'],['33'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. We saw the first law and the notion of internal energy.",user,student07,Information,Hint
+33,act_week5,331,['model_student07_33'],,['33'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student07,General Positive Feedback,Positive Feedback
+33,act_week5,332,['model_student07_33'],,['33'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student07,Probing Question,Question
+33,act_week5,333,,['user_student07_33'],['33'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student07,Information,Hint
+33,act_week5,334,['model_student07_33'],,['33'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student07,Elaborated Positive Feedback,Positive Feedback
+33,act_week5,335,['model_student07_33'],,['33'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student07,Directive,Directive
+34,act_week5,336,['model_student09_34'],,['34'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student09,Greeting,Statement
+34,act_week5,337,['model_student09_34'],,['34'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student09,Open Question,Question
+34,act_week5,338,['model_student09_34'],,['34'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student09,Directive,Directive
+34,act_week5,339,,['user_student09_34'],['34'],Hint,2024-01-01 00:03:00,"We saw the first law and the notion of internal energy. Work depends on the path taken, unlike internal energy.",user,student09,Information,Hint
+34,act_week5,340,['model_student09_34'],,['34'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student09,Elaborated Positive Feedback,Positive Feedback
+35,act_week5,341,['model_student10_35'],,['35'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student10,Greeting,Statement
+35,act_week5,342,['model_student10_35'],,['35'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student10,Open Question,Question
+35,act_week5,343,['model_student10_35'],,['35'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student10,Directive,Directive
+35,act_week5,344,,['user_student10_35'],['35'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student10,Information,Hint
+35,act_week5,345,,['user_student10_35'],['35'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student10,Information Question,Question
+35,act_week5,346,['model_student10_35'],,['35'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student10,Explanation,Statement
+35,act_week5,347,['model_student10_35'],,['35'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student10,Probing Question,Question
+35,act_week5,348,,['user_student10_35'],['35'],Acknowledge,2024-01-01 00:07:00,"Okay, thanks.",user,student10,Acknowledge,Acknowledge
+35,act_week5,349,['model_student10_35'],,['35'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student10,Explanation,Statement
+35,act_week5,350,['model_student10_35'],,['35'],Positive Feedback,2024-01-01 00:09:00,Your definition of work is correct.,model,student10,Elaborated Positive Feedback,Positive Feedback
+35,act_week5,351,,['user_student10_35'],['35'],Acknowledge,2024-01-01 00:10:00,"Okay, thanks.",user,student10,Acknowledge,Acknowledge
+36,act_week5,352,['model_student11_36'],,['36'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student11,Greeting,Statement
+36,act_week5,353,['model_student11_36'],,['36'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student11,Open Question,Question
+36,act_week5,354,['model_student11_36'],,['36'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student11,Directive,Directive
+36,act_week5,355,,['user_student11_36'],['36'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy. An isothermal process keeps the temperature constant.,user,student11,Information,Hint
+36,act_week5,356,['model_student11_36'],,['36'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student11,General Positive Feedback,Positive Feedback
+37,act_week5,357,['model_student12_37'],,['37'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student12,Greeting,Statement
+37,act_week5,358,['model_student12_37'],,['37'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student12,Open Question,Question
+37,act_week5,359,['model_student12_37'],,['37'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student12,Directive,Directive
+37,act_week5,360,,['user_student12_37'],['37'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student12,Information,Hint
+37,act_week5,361,['model_student12_37'],,['37'],Positive Feedback,2024-01-01 00:04:00,"Very good, that's a good summary!",model,student12,General Positive Feedback,Positive Feedback
+37,act_week5,362,['model_student12_37'],,['37'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student12,Probing Question,Question
+37,act_week5,363,,['user_student12_37'],['37'],Hint,2024-01-01 00:06:00,An isothermal process keeps the temperature constant. We saw the first law and the notion of internal energy.,user,student12,Observation,Hint
+37,act_week5,364,['model_student12_37'],,['37'],Positive Feedback,2024-01-01 00:07:00,"Very good, that's a good summary!",model,student12,General Positive Feedback,Positive Feedback
+37,act_week5,365,['model_student12_37'],,['37'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student12,Probing Question,Question
+37,act_week5,366,,['user_student12_37'],['37'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student12,Information,Hint
+37,act_week5,367,['model_student12_37'],,['37'],Positive Feedback,2024-01-01 00:10:00,"Very good, that's a good summary!",model,student12,General Positive Feedback,Positive Feedback
+37,act_week5,368,['model_student12_37'],,['37'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student12,Directive,Directive
+38,act_week5,369,['model_student13_38'],,['38'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student13,Greeting,Statement
+38,act_week5,370,['model_student13_38'],,['38'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student13,Open Question,Question
+38,act_week5,371,['model_student13_38'],,['38'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student13,Directive,Directive
+38,act_week5,372,,['user_student13_38'],['38'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student13,Information,Hint
+38,act_week5,373,,['user_student13_38'],['38'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student13,Information Question,Question
+38,act_week5,374,['model_student13_38'],,['38'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student13,Explanation,Statement
+38,act_week5,375,['model_student13_38'],,['38'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student13,Probing Question,Question
+38,act_week5,376,,['user_student13_38'],['38'],Answer,2024-01-01 00:07:00,Yes.,user,student13,Yes-No Answer,Answer
+38,act_week5,377,['model_student13_38'],,['38'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student13,Explanation,Statement
+38,act_week5,378,['model_student13_38'],,['38'],Positive Feedback,2024-01-01 00:09:00,"Very good, that's a good summary!",model,student13,General Positive Feedback,Positive Feedback
+38,act_week5,379,,['user_student13_38'],['38'],Answer,2024-01-01 00:10:00,Yes.,user,student13,Yes-No Answer,Answer
+39,act_week5,380,['model_student15_39'],,['39'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student15,Greeting,Statement
+39,act_week5,381,['model_student15_39'],,['39'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student15,Open Question,Question
+39,act_week5,382,['model_student15_39'],,['39'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student15,Directive,Directive
+39,act_week5,383,,['user_student15_39'],['39'],Hint,2024-01-01 00:03:00,We saw the first law and the notion of internal energy.,user,student15,Information,Hint
+39,act_week5,384,['model_student15_39'],,['39'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+39,act_week5,385,['model_student15_39'],,['39'],Question,2024-01-01 00:05:00,How does the first law apply to a cycle?,model,student15,Probing Question,Question
+39,act_week5,386,,['user_student15_39'],['39'],Hint,2024-01-01 00:06:00,"Work depends on the path taken, unlike internal energy. Work depends on the path taken, unlike internal energy.",user,student15,Information,Hint
+39,act_week5,387,['model_student15_39'],,['39'],Positive Feedback,2024-01-01 00:07:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+39,act_week5,388,['model_student15_39'],,['39'],Question,2024-01-01 00:08:00,How does the first law apply to a cycle?,model,student15,Probing Question,Question
+39,act_week5,389,,['user_student15_39'],['39'],Hint,2024-01-01 00:09:00,We saw the first law and the notion of internal energy.,user,student15,Information,Hint
+39,act_week5,390,['model_student15_39'],,['39'],Positive Feedback,2024-01-01 00:10:00,Your definition of work is correct.,model,student15,Elaborated Positive Feedback,Positive Feedback
+39,act_week5,391,['model_student15_39'],,['39'],Directive,2024-01-01 00:11:00,Feel free to share your thoughts!,model,student15,Directive,Directive
+40,act_week5,392,['model_student17_40'],,['40'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student17,Greeting,Statement
+40,act_week5,393,['model_student17_40'],,['40'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? Which points still seem unclear to you?,model,student17,Open Question,Question
+40,act_week5,394,['model_student17_40'],,['40'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student17,Directive,Directive
+40,act_week5,395,,['user_student17_40'],['40'],Hint,2024-01-01 00:03:00,An isothermal process keeps the temperature constant. An isothermal process keeps the temperature constant.,user,student17,Observation,Hint
+40,act_week5,396,['model_student17_40'],,['40'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student17,Elaborated Positive Feedback,Positive Feedback
+41,act_week5,397,['model_student18_41'],,['41'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student18,Greeting,Statement
+41,act_week5,398,['model_student18_41'],,['41'],Question,2024-01-01 00:01:00,Which points still seem unclear to you? What are the 2 to 5 main ideas of this lesson?,model,student18,Open Question,Question
+41,act_week5,399,['model_student18_41'],,['41'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student18,Directive,Directive
+41,act_week5,400,,['user_student18_41'],['41'],Hint,2024-01-01 00:03:00,"An isothermal process keeps the temperature constant. Work depends on the path taken, unlike internal energy.",user,student18,Observation,Hint
+41,act_week5,401,['model_student18_41'],,['41'],Positive Feedback,2024-01-01 00:04:00,Your definition of work is correct.,model,student18,Elaborated Positive Feedback,Positive Feedback
+42,act_week5,402,['model_student21_42'],,['42'],Statement,2024-01-01 00:00:00,"Hello! I am your tutor, let's think about these questions together:",model,student21,Greeting,Statement
+42,act_week5,403,['model_student21_42'],,['42'],Question,2024-01-01 00:01:00,What are the 2 to 5 main ideas of this lesson? What are the 2 to 5 main ideas of this lesson?,model,student21,Open Question,Question
+42,act_week5,404,['model_student21_42'],,['42'],Directive,2024-01-01 00:02:00,Feel free to share your thoughts!,model,student21,Directive,Directive
+42,act_week5,405,,['user_student21_42'],['42'],Hint,2024-01-01 00:03:00,"Work depends on the path taken, unlike internal energy.",user,student21,Information,Hint
+42,act_week5,406,,['user_student21_42'],['42'],Question,2024-01-01 00:04:00,I don't really understand the difference between heat and work.,user,student21,Information Question,Question
+42,act_week5,407,['model_student21_42'],,['42'],Statement,2024-01-01 00:05:00,Heat and work are two ways of exchanging energy.,model,student21,Explanation,Statement
+42,act_week5,408,['model_student21_42'],,['42'],Question,2024-01-01 00:06:00,How does the first law apply to a cycle?,model,student21,Probing Question,Question
+42,act_week5,409,,['user_student21_42'],['42'],Answer,2024-01-01 00:07:00,Yes.,user,student21,Yes-No Answer,Answer
+42,act_week5,410,['model_student21_42'],,['42'],Statement,2024-01-01 00:08:00,Heat and work are two ways of exchanging energy.,model,student21,Explanation,Statement
+42,act_week5,411,['model_student21_42'],,['42'],Positive Feedback,2024-01-01 00:09:00,Your definition of work is correct.,model,student21,Elaborated Positive Feedback,Positive Feedback
+42,act_week5,412,,['user_student21_42'],['42'],Answer,2024-01-01 00:10:00,Yes.,user,student21,Yes-No Answer,Answer

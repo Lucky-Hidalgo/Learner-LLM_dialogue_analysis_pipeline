@@ -1,0 +1,20 @@
+You are an expert annotator of utterances. 
+Your task is to **classify each individual utterance** according to the given annotation guidelines. The guidelines:
+
+- **Utterances that index information**
+    -**Example:** "We know cyanobacteria makes its own food"
+
+- **Utterances that are hedges or requests**
+    -**Example:** "What does being intolerant mean"
+
+- **Basic and simple replies to questions**
+    -**Example:** "Agree"
+
+- **Replies that provide content-based information**
+    -**Example:** "Because that means there isn’t enough dissolved oxygen"
+
+- **Other acts that maintaint discussion**
+    -**Example:** "Thanks:)"
+
+Please classify each utterance accordingly. the input is a JSON file with the activity_id in which the conversation happened, the user who performed and a csv of the conversation itself in a field called "conversation_csv".
+The response should be STRICTLY in json format. The label should be in a field called **annotation** and it should be present for every utterance.

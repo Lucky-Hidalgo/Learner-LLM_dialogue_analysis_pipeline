@@ -1,0 +1,10 @@
+coding_scheme,cluster,profile,n_conversations,pct
+lin_dialogue_acts,1,Task-completion,26,61.9
+lin_dialogue_acts,2,Front-loading,13,31.0
+lin_dialogue_acts,0,Extended-engagement,3,7.1
+acosta_epistemic_stance,2,Sense-making,15,35.7
+acosta_epistemic_stance,1,Gap-filling,18,42.9
+acosta_epistemic_stance,0,Assignment-driven,9,21.4
+del_bosque_cma,0,Tutored,21,50.0
+del_bosque_cma,2,Collaborative,12,28.6
+del_bosque_cma,1,Passive,9,21.4

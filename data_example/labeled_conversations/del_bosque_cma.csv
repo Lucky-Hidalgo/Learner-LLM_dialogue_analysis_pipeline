@@ -1,0 +1,487 @@
+activity_id,user_id,role,message_num,utterance_num,sentence_en,label,type
+act_week2,student01,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student01,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student01,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student01,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student01,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student01,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student01,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student01,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student01,user,3,1,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student01,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student01,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student01,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student01,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student01,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student03,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student03,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student03,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student03,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student03,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student03,user,1,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student03,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student04,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student04,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student04,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student04,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student04,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student04,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student04,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student04,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student04,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student04,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student04,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student04,user,5,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student04,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student04,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student05,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student05,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student05,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student05,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student05,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student05,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student05,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student05,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student05,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student05,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student05,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student05,user,5,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student05,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student05,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student08,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student08,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student08,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student08,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student08,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student08,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student08,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student08,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student08,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student08,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student08,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student08,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student08,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student08,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student12,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student12,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student12,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student12,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student12,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student12,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student12,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student12,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student12,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student12,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student12,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student12,user,5,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student12,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student12,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student13,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student13,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student13,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student13,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student13,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student13,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student13,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student13,user,3,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student13,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student13,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student13,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student13,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student13,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student13,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student15,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student15,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student15,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student15,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student15,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student15,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student15,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student15,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student15,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student15,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student15,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student15,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student15,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student15,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student16,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student16,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student16,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student16,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student16,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student16,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week2,student16,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week2,student16,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student16,user,3,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week2,student16,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week2,student16,model,4,1,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student16,user,5,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week2,student17,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student17,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student17,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student17,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student17,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student17,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week2,student17,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week2,student17,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student17,user,3,0,Yes.,Student Backchannel,Student Backchannel
+act_week2,student17,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week2,student17,model,4,1,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student17,user,5,0,Yes.,Student Backchannel,Student Backchannel
+act_week2,student18,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student18,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student18,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student18,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student18,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student18,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student18,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student18,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student18,user,3,1,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student18,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student18,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student18,user,5,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student18,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student18,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student19,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student19,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student19,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student19,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student19,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student19,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student19,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student19,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student19,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week2,student19,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student19,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student19,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week2,student19,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student19,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student21,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student21,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student21,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week2,student21,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week2,student21,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week2,student21,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week2,student21,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week2,student21,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week2,student21,user,3,0,Yes.,Student Backchannel,Student Backchannel
+act_week2,student21,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week2,student21,model,4,1,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week2,student21,user,5,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week4,student01,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student01,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student01,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student01,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student01,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student01,user,1,1,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student01,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student02,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student02,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student02,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student02,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student02,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student02,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student02,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student02,user,3,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student02,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student02,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student02,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student02,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student02,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student02,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student03,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student03,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student03,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student03,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student03,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student03,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student03,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student04,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student04,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student04,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student04,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student04,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student04,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student04,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student06,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student06,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student06,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student06,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student06,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student06,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student06,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student07,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student07,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student07,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student07,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student07,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student07,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week4,student07,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week4,student07,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student07,user,3,0,Yes.,Student Backchannel,Student Backchannel
+act_week4,student07,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week4,student07,model,4,1,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student07,user,5,0,Yes.,Student Backchannel,Student Backchannel
+act_week4,student08,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student08,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student08,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student08,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student08,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student08,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student08,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student08,user,3,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student08,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student08,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student08,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student08,user,5,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student08,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student08,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student10,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student10,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student10,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student10,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student10,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student10,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student10,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student10,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student10,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student10,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student10,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student10,user,5,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student10,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student10,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student11,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student11,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student11,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student11,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student11,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student11,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week4,student11,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week4,student11,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student11,user,3,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week4,student11,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week4,student11,model,4,1,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student11,user,5,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week4,student13,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student13,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student13,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student13,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student13,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student13,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student13,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student14,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student14,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student14,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student14,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student14,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student14,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student14,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student14,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student14,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student14,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student14,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student14,user,5,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student14,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student14,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student15,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student15,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student15,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student15,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student15,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student15,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student15,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student15,user,3,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student15,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student15,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student15,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student15,user,5,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student15,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student15,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student16,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student16,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student16,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student16,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student16,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student16,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week4,student16,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week4,student16,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student16,user,3,0,Yes.,Student Backchannel,Student Backchannel
+act_week4,student16,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week4,student16,model,4,1,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student16,user,5,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week4,student17,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student17,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student17,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student17,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student17,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student17,user,1,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student17,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student18,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student18,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student18,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student18,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student18,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student18,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student18,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student18,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student18,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student18,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student18,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student18,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student18,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student18,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student19,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student19,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student19,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student19,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student19,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student19,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student19,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student19,user,3,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student19,user,3,1,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student19,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student19,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student19,user,5,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week4,student19,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student19,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student21,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student21,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student21,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week4,student21,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week4,student21,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student21,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student21,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student21,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student21,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week4,student21,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student21,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week4,student21,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week4,student21,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week4,student21,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student02,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student02,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student02,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student02,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student02,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student02,user,1,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student02,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student04,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student04,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student04,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student04,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student04,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student04,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student04,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student04,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student04,user,3,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student04,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student04,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student04,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student04,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student04,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student07,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student07,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student07,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student07,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student07,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student07,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student07,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student07,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student07,user,3,1,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student07,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student07,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student07,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student07,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student07,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student09,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student09,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student09,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student09,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student09,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student09,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student09,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student10,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student10,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student10,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student10,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student10,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student10,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week5,student10,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week5,student10,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student10,user,3,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week5,student10,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week5,student10,model,4,1,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student10,user,5,0,"Okay, thanks.",Student Backchannel,Student Backchannel
+act_week5,student11,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student11,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student11,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student11,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student11,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student11,user,1,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student11,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student12,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student12,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student12,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student12,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student12,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student12,model,2,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student12,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student12,user,3,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student12,user,3,1,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student12,model,4,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student12,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student12,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student12,model,6,0,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student12,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student13,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student13,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student13,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student13,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student13,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student13,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week5,student13,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week5,student13,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student13,user,3,0,Yes.,Student Backchannel,Student Backchannel
+act_week5,student13,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week5,student13,model,4,1,"Very good, that's a good summary!",Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student13,user,5,0,Yes.,Student Backchannel,Student Backchannel
+act_week5,student15,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student15,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student15,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student15,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student15,user,1,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student15,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student15,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student15,user,3,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student15,user,3,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student15,model,4,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student15,model,4,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student15,user,5,0,We saw the first law and the notion of internal energy.,Student Compound Contribution,Student Compound Contribution
+act_week5,student15,model,6,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student15,model,6,1,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student17,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student17,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student17,model,0,2,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student17,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student17,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student17,user,1,1,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student17,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student18,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student18,model,0,1,Which points still seem unclear to you?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student18,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student18,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student18,user,1,0,An isothermal process keeps the temperature constant.,Student Compound Contribution,Student Compound Contribution
+act_week5,student18,user,1,1,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student18,model,2,0,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student21,model,0,0,"Hello! I am your tutor, let's think about these questions together:",Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student21,model,0,1,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student21,model,0,2,What are the 2 to 5 main ideas of this lesson?,Tutor Elicit Response,Tutor Elicit Response
+act_week5,student21,model,0,3,Feel free to share your thoughts!,Tutor Floor Initiating or Floor Mantaining,Tutor Floor Initiating or Floor Mantaining
+act_week5,student21,user,1,0,"Work depends on the path taken, unlike internal energy.",Student Compound Contribution,Student Compound Contribution
+act_week5,student21,user,1,1,I don't really understand the difference between heat and work.,Student Question,Student Question
+act_week5,student21,model,2,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week5,student21,model,2,1,How does the first law apply to a cycle?,Tutor Diagnosing Base,Tutor Diagnosing Base
+act_week5,student21,user,3,0,Yes.,Student Backchannel,Student Backchannel
+act_week5,student21,model,4,0,Heat and work are two ways of exchanging energy.,Tutor Question Response,Tutor Question Response
+act_week5,student21,model,4,1,Your definition of work is correct.,Acknowledge Backchannel,Acknowledge Backchannel
+act_week5,student21,user,5,0,Yes.,Student Backchannel,Student Backchannel
